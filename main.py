@@ -1,20 +1,22 @@
-import requests
-API_KEY_GOOGLE = 'AIzaSyCYK8VNsmIZQ2vcOieEVc4pm0AjS9k0GYQ'
-SERCH_ENGINE_ID = '31a7b0acb015c4a18'
-query ="python"
-page =1
-language = 'lang_es'
+from dotenv import load_dotenv
+import os
+from googlesearch import GoogleSearch
 
-#construct the URL for the search
-URL=f"https://www.googleapis.com/customsearch/v1?key={API_KEY_GOOGLE}&cx={SERCH_ENGINE_ID}&q={query}$start={page}&lr={language}"
+# Load environment variables from the .env file to ensure security and configurability.
+load_dotenv()
 
-data=requests.get(URL).json()
-results = data.get('items')
+# Get configuration keys from the environment variables.
+API_KEY_GOOGLE = os.getenv("API_KEY_GOOGLE")
+SEARCH_ENGINE_ID = os.getenv("SEARCH_ENGINE_ID")
 
-for r in results:
-    print('-----NUEVO RESULTADO-----')
-    print(r.get('title'))
-    print(r.get('link'))
-    print(r.get('snippet'))
-    print('-------------------')
-    print('\n\n')
+# Define the search query to find specific information on Google.
+query = 'filetype:sql "MySQL dump" (pass|password|passwd|pwd)'
+
+# Create an instance of GoogleSearch with the provided API key and search engine ID.
+gsearch = GoogleSearch(API_KEY_GOOGLE, SEARCH_ENGINE_ID)
+
+# Perform the search with the defined query, specifying the number of pages to retrieve.
+results = gsearch.search(query, pages=2)
+
+# Print the obtained search results.
+print(results)

@@ -1,0 +1,19 @@
+# Ignorar el archivo .env que contiene variables sensibles
+.env
+
+# Ignorar archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Ignorar configuraciones de entorno virtual
+.venv/
+venv/
+ENV/
+env/
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar configuraciones de IDE
+.vscode/
+.idea/
