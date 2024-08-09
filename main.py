@@ -1,22 +1,16 @@
+from googlesearch import GoogleSearch
 from dotenv import load_dotenv
 import os
-from googlesearch import GoogleSearch
-
-# Load environment variables from the .env file to ensure security and configurability.
+# Constantes para configurar la API de búsqueda personalizada de Google
 load_dotenv()
 
-# Get configuration keys from the environment variables.
 API_KEY_GOOGLE = os.getenv("API_KEY_GOOGLE")
-SEARCH_ENGINE_ID = os.getenv("SEARCH_ENGINE_ID")
+SERCH_ENGINE_ID = os.getenv("SERCH_ENGINE_ID")
 
-# Define the search query to find specific information on Google.
-query = 'filetype:sql "MySQL dump" (pass|password|passwd|pwd)'
+# Configuración de la consulta y parámetros de búsqueda
+query = 'Python curso'
 
-# Create an instance of GoogleSearch with the provided API key and search engine ID.
-gsearch = GoogleSearch(API_KEY_GOOGLE, SEARCH_ENGINE_ID)
+gseaarch = GoogleSearch(API_KEY_GOOGLE, SERCH_ENGINE_ID)
 
-# Perform the search with the defined query, specifying the number of pages to retrieve.
-results = gsearch.search(query, pages=2)
-
-# Print the obtained search results.
+results = gseaarch.search(query,pages=2)
 print(results)
