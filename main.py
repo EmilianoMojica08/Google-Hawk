@@ -3,6 +3,7 @@ import sys
 import argparse
 from googlesearch import GoogleSearch
 from results_parsey import ResultsProcessor
+from file_downloader import FileDownloader
 from dotenv import load_dotenv, set_key
 
 
@@ -18,7 +19,7 @@ def env_config():
     print("Archivo .env configurado satisfactoriamente.")
 
 
-def main(query, configure_env, start_page, pages, lang, output_json, output_html):
+def main(query, configure_env, start_page, pages, lang, output_json, output_html, download):
     """
     Realiza una búsqueda en Google utilizando una API KEY y un SEARCH ENGINE ID almacenados en un archivo .env.
 
@@ -30,6 +31,7 @@ def main(query, configure_env, start_page, pages, lang, output_json, output_html
         lang (str): Código de idioma para los resultados de búsqueda.
         output_json (str): Ruta del archivo para exportar los resultados en formato JSON.
         output_html (str): Ruta del archivo para exportar los resultados en formato HTML.
+        download (str): Cadena con extensiones de archivo para descargar, separadas por comas.
     """
     # Verificar la existencia del archivo .env y configuración del entorno
     if configure_env or not os.path.exists(".env"):
@@ -70,6 +72,13 @@ def main(query, configure_env, start_page, pages, lang, output_json, output_html
     if output_json:
         rparser.exportar_json(output_json)
 
+    # Descarga los documentos especificados que se encuentren en los resultados
+    if download:
+        file_types = download.split(",")
+        urls = [resultado['link'] for resultado in resultados]
+        fdownloader = FileDownloader("Descargas")
+        fdownloader.filtrar_descargar_archivos(urls, file_types)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Herramienta para realizar búsquedas avanzadas en Google de forma automática.")
@@ -80,6 +89,7 @@ if __name__ == "__main__":
     parser.add_argument("--lang", type=str, default="lang_es", help="Código de idioma para los resultados de búsqueda. Por defecto es 'lang_es' (español).")
     parser.add_argument("--json", type=str, help="Exporta los resultados en formato JSON en el fichero especificado.")
     parser.add_argument("--html", type=str, help="Exporta los resultados en formato HTML en el fichero especificado.")
+    parser.add_argument("--download", type=str, default="all", help="Especifica las extensiones de los archivos que quieres descargar separados entre coma. Ej: --download 'pdf,doc,sql'")
 
     args = parser.parse_args()
 
@@ -89,4 +99,5 @@ if __name__ == "__main__":
          pages=args.pages, 
          lang=args.lang,
          output_html=args.html,
-         output_json=args.json)
+         output_json=args.json,
+         download=args.download)

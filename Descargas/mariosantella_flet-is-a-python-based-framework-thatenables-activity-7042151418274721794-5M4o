@@ -1,0 +1,4301 @@
+<!DOCTYPE html>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    <html lang="es">
+      <head>
+        <meta name="pageKey" content="d_public_post">
+<!----><!---->        <meta name="locale" content="es_ES">
+        <meta id="config" data-app-version="1.2.603" data-call-tree-id="AAYfWmnc+gqVO7/OWVi/Jg==" data-multiproduct-name="feedcontent-guest-frontend" data-service-name="feedcontent-guest-frontend" data-browser-id="7c2b300e-4823-43bb-8117-f1690efb3f32" data-enable-page-view-heartbeat-tracking data-page-instance="urn:li:page:d_public_post;RMICP+HdSc6394Lb2GQjgg==" data-disable-jsbeacon-pagekey-suffix="false" data-member-id="0" data-dna-member-lix-treatment="control" data-human-member-lix-treatment="control" data-dfp-member-lix-treatment="control">
+
+        <link rel="canonical" href="https://www.linkedin.com/posts/mariosantella_flet-is-a-python-based-framework-thatenables-activity-7042151418274721794-5M4o">
+<!----><!---->
+<!---->
+<!---->
+          <meta property="al:android:url" content="https://www.linkedin.com/posts/mariosantella_flet-is-a-python-based-framework-thatenables-activity-7042151418274721794-5M4o">
+          <meta property="al:android:package" content="com.linkedin.android">
+          <meta property="al:android:app_name" content="LinkedIn">
+          <meta property="al:ios:url" content="https://www.linkedin.com/posts/mariosantella_flet-is-a-python-based-framework-thatenables-activity-7042151418274721794-5M4o">
+          <meta property="al:ios:app_store_id" content="288429040">
+          <meta property="al:ios:app_name" content="LinkedIn">
+
+<!---->
+          <link rel="icon" href="https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca">
+
+        <script>
+          function getDfd() {let yFn,nFn;const p=new Promise(function(y, n){yFn=y;nFn=n;});p.resolve=yFn;p.reject=nFn;return p;}
+          window.lazyloader = getDfd();
+          window.tracking = getDfd();
+          window.impressionTracking = getDfd();
+          window.ingraphTracking = getDfd();
+          window.appDetection = getDfd();
+          window.pemTracking = getDfd();
+        </script>
+
+<!---->
+        
+        
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+
+          
+  <meta name="description" content="Flet is a Python-based framework that enables developers to build interactive multi-user web, desktop, and mobile applications without prior experience in…">
+  <meta name="twitter:description" content="Flet is a Python-based framework that enables developers to build interactive multi-user web, desktop, and mobile applications without prior experience in…">
+  <meta property="og:description" content="Flet is a Python-based framework that enables developers to build interactive multi-user web, desktop, and mobile applications without prior experience in…">
+
+
+    <meta property="og:title" content="Mario Santella en LinkedIn: Flet is a Python-based framework that enables developers to build…">
+    <meta name="twitter:title" content="Mario Santella en LinkedIn: Flet is a Python-based framework that enables developers to build…">
+    <title>Mario Santella en LinkedIn: Flet is a Python-based framework that enables developers to build…</title>
+
+      <meta name="twitter:card" content="summary_large_image">
+
+    <meta name="robots" content="noarchive, max-image-preview:large">
+    <meta property="lnkd:url" content="https://do.linkedin.com/feed/update/urn:li:activity:7042151418274721794">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://www.linkedin.com/posts/mariosantella_flet-is-a-python-based-framework-thatenables-activity-7042151418274721794-5M4o">
+    <meta property="og:image" content="https://media.licdn.com/dms/image/C4D22AQEjEza0jU7N_g/feedshare-shrink_2048_1536/0/1678979733476?e=2147483647&amp;v=beta&amp;t=aM46lAurRzW6Myzzf91KBM8Kg1NNKhY-2yMwJbepryk">
+    <meta name="twitter:image" content="https://media.licdn.com/dms/image/C4D22AQEjEza0jU7N_g/feedshare-shrink_2048_1536/0/1678979733476?e=2147483647&amp;v=beta&amp;t=aM46lAurRzW6Myzzf91KBM8Kg1NNKhY-2yMwJbepryk">
+    <meta name="twitter:site" content="@linkedin">
+    <meta property="twitter:url" content="https://www.linkedin.com/posts/mariosantella_flet-is-a-python-based-framework-thatenables-activity-7042151418274721794-5M4o">
+      <meta name="clientSideIngraphs" content="1" data-gauge-metric-endpoint="/feedcontent-guest/api/ingraphs/gauge" data-counter-metric-endpoint="/feedcontent-guest/api/ingraphs/counter">
+  
+
+        <link rel="stylesheet" href="https://static.licdn.com/aero-v1/sc/h/443h7ppchtakm2enfrr7ygqj">
+
+        
+    
+      <script type="application/ld+json">
+        {"@context":"http://schema.org","@type":"SocialMediaPosting","@id":"https://www.linkedin.com/posts/mariosantella_flet-is-a-python-based-framework-thatenables-activity-7042151418274721794-5M4o","author":{"name":"Mario Santella","image":{"url":"https://media.licdn.com/dms/image/C5603AQFBUhDW6w1zAg/profile-displayphoto-shrink_200_200/0/1556113150342?e=2147483647&v=beta&t=8iaobdsTbS3fF0GQMiyhSfwdUxFqt8VwpghQhCQTxy8","@type":"ImageObject"},"url":"https://it.linkedin.com/in/mariosantella","@type":"Person"},"datePublished":"2023-03-16T15:15:34.940Z","image":{"url":"https://media.licdn.com/dms/image/C4D22AQEjEza0jU7N_g/feedshare-shrink_2048_1536/0/1678979733476?e=2147483647&v=beta&t=aM46lAurRzW6Myzzf91KBM8Kg1NNKhY-2yMwJbepryk","@type":"ImageObject"},"articleBody":"Flet is a Python-based framework that enables developers to build interactive multi-user web, desktop, and mobile applications without prior experience in frontend development. Flet controls, which are based on Google’s Flutter...\n\nhttps://lnkd.in/dHJVCYHF","sharedContent":{"@type":"WebPage"},"hasPart":{"@type":"WebPageElement","isAccessibleForFree":false,"cssSelector":".details"}}
+      </script>
+  
+  
+      
+<!---->      </head>
+      <body dir="ltr">
+<!----><!----><!---->
+        
+        
+    
+    
+    
+    <form class="google-auth" action="https://www.linkedin.com/uas/login-submit" method="post">
+      <input name="loginCsrfParam" value="7c2b300e-4823-43bb-8117-f1690efb3f32" type="hidden">
+
+<!---->
+      <input name="trk" value="public_post_google-one-tap-submit" type="hidden">
+        <code id="termsAndConditionsRendered" style="display: none"><!--true--></code>
+          <div class="google-one-tap__module hidden fixed flex flex-col items-center top-[20px] right-[20px] z-[9999]">
+            <div class="relative top-2 bg-color-background-container-tint pl-2 pr-1 pt-2 pb-3 w-[375px] rounded-md shadow-2xl">
+              <p class="text-md font-bold text-color-text">
+                Aceptar y unirse a LinkedIn
+              </p>
+              
+    
+    <p class="linkedin-tc__text text-color-text-low-emphasis text-xs pb-2 !text-sm !text-color-text" data-impression-id="public_post_one-tap-skip-tc-text">
+      Al hacer clic en «Continuar» para unirte o iniciar sesión, aceptas las <a href="/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement" target="_blank" data-tracking-control-name="linkedin-tc_auth-button_user-agreement" data-tracking-will-navigate="true">Condiciones de uso</a>, la <a href="/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy" target="_blank" data-tracking-control-name="linkedin-tc_auth-button_privacy-policy" data-tracking-will-navigate="true">Política de privacidad</a> y la <a href="/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy" target="_blank" data-tracking-control-name="linkedin-tc_auth-button_cookie-policy" data-tracking-will-navigate="true">Política de cookies</a> de LinkedIn.
+    </p>
+  
+            </div>
+            <div data-tracking-control-name="public_post_google-one-tap" id="google-one-tap__container"></div>
+          </div>
+      
+    <div class="loader loader--full-screen">
+      <div class="loader__container mb-2 overflow-hidden">
+        <icon class="loader__icon inline-block loader__icon--default text-color-progress-loading" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ddi43qwelxeqjxdd45pe3fvs1" data-svg-class-name="loader__icon-svg--large fill-currentColor h-[60px] min-h-[60px] w-[60px] min-w-[60px]"></icon>
+      </div>
+    </div>
+  
+    </form>
+
+    <script data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8m736dfzskmdn6bwwqz67iiki" data-module-id="google-gsi-lib"></script>
+    <code id="googleAuthLibraryPath" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/8m736dfzskmdn6bwwqz67iiki"--></code>
+    <code id="isLinkedInAppWebView" style="display: none"><!--false--></code>
+    <code id="isTermsAndConditionsSkipEnabledOneTap" style="display: none"><!--true--></code>
+    <code id="shouldRemoveUndefinedValues" style="display: none"><!--false--></code>
+  
+        
+<!---->
+    
+      
+    
+
+    <a href="#main-content" class="skip-link btn-md btn-primary absolute z-11 -top-[100vh] focus:top-0">
+      Pasar al contenido principal
+    </a>
+  
+    <header class="header base-detail-page__header px-mobile-container-padding bg-color-background-container global-alert-offset">
+      
+        
+
+    
+    
+    
+    
+
+    <nav class="nav pt-1.5 pb-2 flex items-center justify-between relative flex-nowrap babymamabear:py-1.5
+        
+        
+         babybear:flex-wrap " aria-label="Principal">
+
+      <a href="/?trk=public_post_nav-header-logo" class="nav__logo-link link-no-visited-state z-1 mr-auto min-h-[52px] flex items-center babybear:z-0 hover:no-underline focus:no-underline active:no-underline
+          " data-tracking-control-name="public_post_nav-header-logo" data-tracking-will-navigate>
+          
+              
+    
+    <span class="sr-only">LinkedIn</span>
+<!---->      <icon class="block text-color-brand w-[102px] h-[26px] " data-test-id="nav-logo" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8fkga714vy9b2wk5auqo5reeb"></icon>
+  
+          
+      </a>
+
+<!---->
+        
+    
+    
+    
+    
+    
+    
+    
+    <ul class="top-nav-menu flex items-center babybear:w-full babybear:justify-between babybear:pt-1 justify-start w-max pt-0 overflow-x-auto
+        after:papamamabear:up-down-divider after:papamamabear:!h-[37px]
+         nav__menu babybear:order-last order-3 ml-auto">
+        <li class>
+          
+    <a href="https://www.linkedin.com/pulse/topics/home/?trk=public_post_guest_nav_menu_articles" data-tracking-control-name="public_post_guest_nav_menu_articles" data-tracking-will-navigate class="top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
+        w-8 
+        flex-col mx-1 babybear:mx-0
+        text-color-text-secondary visited:text-color-text-secondary">
+      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/6ulnj3n2ijcmhej768y6oj1hr">
+      </icon>
+      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center
+          font-regular">
+        Artículos
+      </span>
+    </a>
+  
+        </li>
+        <li class>
+          
+    <a href="https://www.linkedin.com/pub/dir/+/+?trk=public_post_guest_nav_menu_people" data-tracking-control-name="public_post_guest_nav_menu_people" data-tracking-will-navigate class="top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
+        w-8 
+        flex-col mx-1 babybear:mx-0
+        text-color-text-secondary visited:text-color-text-secondary">
+      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/7kb6sn3tm4cx918cx9a5jlb0">
+      </icon>
+      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center
+          font-regular">
+        Personas
+      </span>
+    </a>
+  
+        </li>
+        <li class>
+          
+    <a href="https://www.linkedin.com/learning/search?trk=public_post_guest_nav_menu_learning" data-tracking-control-name="public_post_guest_nav_menu_learning" data-tracking-will-navigate class="top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
+        w-8 
+        flex-col mx-1 babybear:mx-0
+        text-color-text-secondary visited:text-color-text-secondary">
+      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/8wykgzgbqy0t3fnkgborvz54u">
+      </icon>
+      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center
+          font-regular">
+        Learning
+      </span>
+    </a>
+  
+        </li>
+        <li class>
+          
+    <a href="https://www.linkedin.com/jobs/search?trk=public_post_guest_nav_menu_jobs" data-tracking-control-name="public_post_guest_nav_menu_jobs" data-tracking-will-navigate class="top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
+        w-8 
+        flex-col mx-1 babybear:mx-0
+        text-color-text-secondary visited:text-color-text-secondary">
+      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/92eb1xekc34eklevj0io6x4ki">
+      </icon>
+      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center
+          font-regular">
+        Empleos
+      </span>
+    </a>
+  
+        </li>
+        <li class>
+          
+    <a href="https://www.linkedin.com/games?trk=public_post_guest_nav_menu_games" data-tracking-control-name="public_post_guest_nav_menu_games" data-tracking-will-navigate class="top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline
+        w-8 
+        flex-col mx-1 babybear:mx-0
+        text-color-text-secondary visited:text-color-text-secondary">
+      <icon class="top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/29h8hsjuomfp50lam5ipnc3uh">
+      </icon>
+      <span class="top-nav-link__label-text font-sans text-xs leading-regular text-center
+          font-regular">
+        Juegos
+      </span>
+    </a>
+  
+        </li>
+    </ul>
+  
+
+      <div class="nav__cta-container order-3 flex gap-x-1 justify-end min-w-[100px] flex-nowrap flex-shrink-0 babybear:flex-wrap flex-2
+          ">
+        
+    
+    <a class="nav__button-tertiary btn-sm btn-tertiary" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmariosantella_flet-is-a-python-based-framework-thatenables-activity-7042151418274721794-5M4o&amp;trk=public_post_nav-header-join" data-tracking-control-name="public_post_nav-header-join" data-test-live-nav-primary-cta data-tracking-will-navigate>
+      Unirse ahora
+    </a>
+
+
+        
+  
+  
+
+      
+      <a class="nav__button-secondary btn-sm btn-primary" href="https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmariosantella_flet-is-a-python-based-framework-thatenables-activity-7042151418274721794-5M4o&amp;fromSignIn=true&amp;trk=public_post_nav-header-signin" data-tracking-control-name="public_post_nav-header-signin" data-tracking-will-navigate>
+          Inicia sesión
+      </a>
+
+
+<!---->      </div>
+
+<!---->
+<!---->    </nav>
+  
+      
+    </header>
+
+    
+<!---->      
+
+<!---->
+    <main class="main papabear:flex papabear:w-content-max-w papabear:mx-auto papabear:pt-desktop-content-top-margin mamabear:pt-desktop-content-top-margin
+        " id="main-content" role="main">
+      <section class="core-rail mx-auto papabear:w-core-rail-width mamabear:max-w-[790px] babybear:max-w-[790px]">
+        
+        
+      
+
+        <div class="details mx-details-container-padding">
+          
+        
+            <section class="mb-3">
+              <h1 class="section-title mb-2">
+                Publicación de Mario Santella
+              </h1>
+
+                
+    
+
+    
+      
+
+    <article class="relative pt-1.5 px-2 pb-0 bg-color-background-container
+        container-lined main-feed-activity-card main-feed-activity-card-with-comments" data-activity-urn="urn:li:activity:7042151418274721794" data-featured-activity-urn="urn:li:activity:7042151418274721794" data-attributed-urn="urn:li:share:7042151417561657345">
+      
+              
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+<!---->  
+        
+
+      
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <div class="flex items-center font-sans mb-1" data-test-id="main-feed-activity-card__entity-lockup">
+          <a href="https://it.linkedin.com/in/mariosantella?trk=public_post_feed-actor-image" class="relative" data-tracking-control-name="public_post_feed-actor-image" data-tracking-will-navigate>
+            
+      <img class="inline-block relative
+          rounded-[50%]
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/C5603AQFBUhDW6w1zAg/profile-displayphoto-shrink_400_400/0/1556113150548?e=2147483647&amp;v=beta&amp;t=fWj5cyEPzMKE1V58Umn3hUr31q4KYlyXmUq81ouKpfw" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Ver el perfil de Mario Santella, gráfico">
+  
+<!---->          </a>
+      <div class="flex flex-col self-start min-w-0
+          ml-1
+          ">
+        <div class="text-color-text ">
+            <a class="text-sm link-styled no-underline leading-open" href="https://it.linkedin.com/in/mariosantella?trk=public_post_feed-actor-name" data-tracking-control-name="public_post_feed-actor-name" aria-label="Ver el perfil de Mario Santella" data-tracking-will-navigate>
+              Mario Santella
+            </a>
+<!----><!---->        </div>
+
+            <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] m-0 truncate">
+<!---->                🔒💻 IT &amp; Security Consultant / Developer | Cybersecurity &amp; Database Security 🛡️ | MongoDB Atlas DBA 🌐 | Python, PHP, JavaScript, Flet Developer 🔧 +12 yrs experience
+            </p>
+
+            <span class="!text-xs text-color-text-low-emphasis leading-[1.33333] flex">
+                <time class="flex-none">
+                  
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 año
+  
+<!---->                </time>
+<!---->            </span>
+                </div>
+
+<!---->    </div>
+  
+        
+
+      
+              
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      <div class="ellipsis-menu absolute right-0 top-0 !mr-0.5" data-test-id="main-feed-activity-card__ellipsis-menu">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            <button class="ellipsis-menu__trigger
+                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
+                !py-[6px] !px-1 flex items-center rounded-[50%]
+                
+                " aria-expanded="false" aria-label="Abrir menú" data-tracking-control-name="public_post_ellipsis-menu-trigger" tabindex="0">
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/671xosfpvk4c0kqtyl87hashi"></icon>
+            </button>
+          
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+              
+
+                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex">
+                  
+
+    
+    
+
+    
+
+    
+
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmariosantella_flet-is-a-python-based-framework-thatenables-activity-7042151418274721794-5M4o&amp;trk=public_post_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=POST&amp;_f=guest-reporting" data-tracking-control-name="public_post_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate data-item-type="semaphore" data-semaphore-content-type="POST" data-semaphore-content-urn="urn:li:activity:7042151418274721794" data-semaphore-tracking-prefix="public_post_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]">
+<!---->        
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
+                      Denunciar esta publicación
+                    
+    </a>
+
+<!---->  
+                </li>
+<!---->          
+        </ul>
+
+<!---->    </div>
+  
+
+      </div>
+  
+        
+
+      
+            
+            
+  <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
+    <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
+        " dir="ltr" data-test-id="main-feed-activity-card__commentary">Flet is a Python-based framework that enables developers to build interactive multi-user web, desktop, and mobile applications without prior experience in frontend development. Flet controls, which are based on Google’s Flutter...
+
+<a class="link" href="https://lnkd.in/dHJVCYHF?trk=public_post-text" target="_self" rel="nofollow" data-tracking-control-name="public_post-text" data-tracking-will-navigate>https://lnkd.in/dHJVCYHF</a></p>
+<!---->  </div>
+
+
+
+        
+
+      
+            
+      
+    
+    
+
+      <ul class="grid grid-cols-6 grid-rows-[60%_40%] w-main-feed-card-media feed-images-content list-none pl-0
+          
+          " data-test-id="feed-images-content">
+            <li class="bg-color-background-container-tint text-[0px]
+                col-span-full row-span-full 
+                " data-test-id="feed-images-content__list-item" data-position="0">
+                <img class="lazy-load w-full object-cover object-center
+                    h-full babybear:max-h-[400px]" data-delayed-url="https://media.licdn.com/dms/image/C4D22AQEjEza0jU7N_g/feedshare-shrink_2048_1536/0/1678979733476?e=2147483647&amp;v=beta&amp;t=aM46lAurRzW6Myzzf91KBM8Kg1NNKhY-2yMwJbepryk" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/921ynb2z53z33mhm3061qvjag" alt="No hay descripción de texto alternativo para esta imagen">
+<!---->            </li>
+      </ul>
+<!---->  
+  
+                  
+      
+          
+        
+
+      
+          
+        
+
+      
+          
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <code id="i18n_reaction_singular" style="display: none"><!--"%numReactions% reacción"--></code>
+    <code id="i18n_reactions_plural" style="display: none"><!--"%numReactions% reacciones"--></code>
+
+      <div class="flex items-center font-sans text-sm babybear:text-xs main-feed-activity-card__social-actions">
+            
+      <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmariosantella_flet-is-a-python-based-framework-thatenables-activity-7042151418274721794-5M4o&amp;trk=public_post_social-actions-reactions" target="_self" data-tracking-control-name="public_post_social-actions-reactions" data-tracking-will-navigate class="flex items-center font-normal text-color-text-low-emphasis no-underline visited:text-color-text-low-emphasis  my-1" aria-label="1 reacción" data-separate-ctas="false" data-test-id="social-actions__reactions" data-id="social-actions__reactions" data-num-reactions="1" data-singular="%numReactions%" data-plural="%numReactions%" tabindex="0">
+        
+                    <img alt data-reaction-type="LIKE" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9sun4diznbhgyelaeryxy75ur" height="16px" width="16px">
+
+              <span aria-hidden="true" class="font-normal ml-0.5" data-test-id="social-actions__reaction-count">
+                    1
+              </span>
+            
+      </a>
+  
+                  <code id="social-actions__reaction-image-APPRECIATION" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/cib97epu77mrzque5gqlzjgaw"--></code>
+<!----><!---->                  <code id="social-actions__reaction-image-EMPATHY" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/37hg81qnm85dsy5mbqfifg9qs"--></code>
+                  <code id="social-actions__reaction-image-ENTERTAINMENT" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/e7ppwfmo0if15fgie4q5r4us4"--></code>
+<!---->                  <code id="social-actions__reaction-image-INTEREST" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/4v7dh2d6cuqm24mzps1pqzeqt"--></code>
+                  <code id="social-actions__reaction-image-LIKE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/9sun4diznbhgyelaeryxy75ur"--></code>
+                  <code id="social-actions__reaction-image-MAYBE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/4iy169rwfs5rdhspekg2r5wc6"--></code>
+                  <code id="social-actions__reaction-image-PRAISE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/cjrxeu0ese8oxe32kiom8kzoh"--></code>
+<!----><!----><!----><!---->      </div>
+  
+  
+        
+
+      
+              
+    
+    
+    
+
+    <div class="social-action-bar border-t-1 border-solid border-color-border-faint min-h-[44px] items-center
+        
+        flex flex-wrap babybear:justify-around
+         !m-0">
+      
+  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmariosantella_flet-is-a-python-based-framework-thatenables-activity-7042151418274721794-5M4o&amp;trk=public_post_like-cta" data-tracking-control-name="public_post_like-cta" data-tracking-will-navigate>
+    <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
+    </icon>
+    <span class="social-action-bar__button-text ">
+      Recomendar
+    </span>
+  </a>
+
+        
+  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmariosantella_flet-is-a-python-based-framework-thatenables-activity-7042151418274721794-5M4o&amp;trk=public_post_comment-cta" data-tracking-control-name="public_post_comment-cta" data-tracking-will-navigate>
+    <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
+    </icon>
+    <span class="social-action-bar__button-text ">
+      Comentar
+    </span>
+  </a>
+
+        
+      
+
+    
+    
+    
+    
+
+    <code id="i18n_copy_cta_message_success" style="display: none"><!--"Se ha copiado el enlace en el portapapeles."--></code>
+    <code id="i18n_copy_cta_message_error" style="display: none"><!--"Ha ocurrido un error al copiar en el portapapeles."--></code>
+
+    
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto social-share inline-block relative select-none share-button " data-share-message="Compartir" data-share-url="https://www.linkedin.com/posts/mariosantella_flet-is-a-python-based-framework-thatenables-activity-7042151418274721794-5M4o?utm_source=li_share&amp;utm_content=feedcontent&amp;utm_medium=g_dt_web">
+          
+        <button aria-expanded="false" class="social-share__button social-share__button-square
+            social-share-button social-action-bar__button
+            
+            
+            social-share-button--square
+            " aria-label data-tracking-control-name="public_post_social-share_main_button">
+          <icon class="social-share__button-icon " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/852gyy4s01pfis5qf9k99s6d2" data-svg-class-name="social-share-button-icon social-action-bar__icon--svg "></icon>
+            <span class="social-share__button-text-square
+                social-action-bar__button-text
+                ">
+              Compartir
+            </span>
+        </button>
+      
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+        
+  <li>
+    <button data-tracking-control-name="public_post_social-share_copy" class="social-share__item social-share-item" data-share-service="copy">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/aup4g97pdky3ff73gv9lyhjvx"></icon>
+      <span class="social-share__item-text pl-1">Copiar</span>
+    </button>
+  </li>
+
+
+        
+  <li>
+    <button data-tracking-control-name="public_post_social-share_linkedin" class="social-share__item social-share-item" data-share-service="linkedin">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2uoxvguhsfspfnmr6tvfuyw4y" data-svg-class-name="text-color-text"></icon>
+      <span class="social-share__item-text pl-1">LinkedIn</span>
+    </button>
+  </li>
+
+          
+  <li>
+    <button data-tracking-control-name="public_post_social-share_facebook" class="social-share__item social-share-item" data-share-service="facebook">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/5xkjpykqkamtr6skk0vodqwd2"></icon>
+      <span class="social-share__item-text pl-1">Facebook</span>
+    </button>
+  </li>
+
+          
+  <li>
+    <button data-tracking-control-name="public_post_social-share_twitter" class="social-share__item social-share-item" data-share-service="twitter">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4bmfmbwr1b97362o29qmjo1zj"></icon>
+      <span class="social-share__item-text pl-1">Twitter</span>
+    </button>
+  </li>
+
+<!---->      
+        </ul>
+
+<!---->    </div>
+  
+  
+  
+        
+<!---->                
+    </div>
+  
+                    
+
+      
+            
+<!----><!---->      
+        
+
+      
+            
+
+    
+    
+    
+    
+    
+    
+
+    <p class="feed-cta-banner__text border-t-1 border-color-surface-border border-solid p-3 text-center text-md text-color-text-low-emphasis">
+        <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmariosantella_flet-is-a-python-based-framework-thatenables-activity-7042151418274721794-5M4o&trk=public_post_feed-cta-banner-cta" target="" aria-label="Inicia sesión para ver o añadir un comentario." data-tracking-control-name="public_post_feed-cta-banner-cta" data-tracking-will-navigate="true" class="feed-cta-banner__link link">Inicia sesión</a> para ver o añadir un comentario.
+    </p>
+  
+        
+    </article>
+  
+      <code id="is-mobile" style="display: none"><!--false--></code>
+  
+  
+            </section>
+
+            
+    
+    
+
+        
+    <section class="core-section-container my-3 related-posts">
+<!---->
+          <h2 class="core-section-container__title section-title">
+            Más publicaciones relevantes
+          </h2>
+
+<!---->
+      <div class="core-section-container__content break-words">
+        
+          <ul>
+<!---->                <li class="mb-1.5">
+                  
+      <div class="link-overlay relative">
+        <a aria-label="Más publicaciones relevantes" class="absolute left-0 top-0 h-full w-full z-1 !border-0" data-tracking-control-name="link-overlay-public_post-posts-cross-linking" href="https://it.linkedin.com/posts/mariosantella_gandalf-lakera-test-your-prompting-skills-activity-7227985822665330688-5LFs" target="_self"></a>
+        
+                    
+        
+    
+          
+  
+      
+
+    <article class="relative pt-1.5 px-2 pb-0 bg-color-background-container
+        container-lined main-feed-activity-card papabear:max-w-[550px] related-posts__related-post !max-w-none" data-activity-urn="urn:li:activity:7227985822665330688" data-featured-activity-urn="urn:li:activity:7227985822665330688" data-attributed-urn="urn:li:share:7227985821969072129" data-id="main-feed-card">
+      
+              
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+<!---->  
+        
+
+      
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <div class="flex items-center font-sans mb-1" data-test-id="main-feed-activity-card__entity-lockup">
+          <a href="https://it.linkedin.com/in/mariosantella?trk=public_post_main-feed-card_feed-actor-image" class="relative" data-tracking-control-name="public_post_main-feed-card_feed-actor-image" data-tracking-will-navigate>
+            
+      <img class="inline-block relative
+          rounded-[50%]
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/C5603AQFBUhDW6w1zAg/profile-displayphoto-shrink_400_400/0/1556113150548?e=2147483647&amp;v=beta&amp;t=fWj5cyEPzMKE1V58Umn3hUr31q4KYlyXmUq81ouKpfw" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Ver el perfil de Mario Santella, gráfico">
+  
+<!---->          </a>
+      <div class="flex flex-col self-start min-w-0
+          ml-1
+          ">
+        <div class="text-color-text ">
+            <a class="text-sm link-styled no-underline leading-open" href="https://it.linkedin.com/in/mariosantella?trk=public_post_main-feed-card_feed-actor-name" data-tracking-control-name="public_post_main-feed-card_feed-actor-name" aria-label="Ver el perfil de Mario Santella" data-tracking-will-navigate>
+              Mario Santella
+            </a>
+<!----><!---->        </div>
+
+            <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] m-0 truncate">
+<!---->                🔒💻 IT &amp; Security Consultant / Developer | Cybersecurity &amp; Database Security 🛡️ | MongoDB Atlas DBA 🌐 | Python, PHP, JavaScript, Flet Developer 🔧 +12 yrs experience
+            </p>
+
+            <span class="!text-xs text-color-text-low-emphasis leading-[1.33333] flex">
+                <time class="flex-none">
+                  
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      10 h
+  
+                    <span aria-hidden="true" class="text-color-text-low-emphasis before:middot"></span>
+                    <span>
+                      Editado
+                    </span>
+                </time>
+<!---->            </span>
+                </div>
+
+<!---->    </div>
+  
+        
+
+      
+              
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      <div class="ellipsis-menu absolute right-0 top-0 !mr-0.5" data-test-id="main-feed-activity-card__ellipsis-menu">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            <button class="ellipsis-menu__trigger
+                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
+                !py-[6px] !px-1 flex items-center rounded-[50%]
+                
+                " aria-expanded="false" aria-label="Abrir menú" data-tracking-control-name="public_post_main-feed-card_ellipsis-menu-trigger" tabindex="0">
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/671xosfpvk4c0kqtyl87hashi"></icon>
+            </button>
+          
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+              
+
+                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex">
+                  
+
+    
+    
+
+    
+
+    
+
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fit.linkedin.com%2Fposts%2Fmariosantella_gandalf-lakera-test-your-prompting-skills-activity-7227985822665330688-5LFs&amp;trk=public_post_main-feed-card_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=POST&amp;_f=guest-reporting" data-tracking-control-name="public_post_main-feed-card_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate data-item-type="semaphore" data-semaphore-content-type="POST" data-semaphore-content-urn="urn:li:activity:7227985822665330688" data-semaphore-tracking-prefix="public_post_main-feed-card_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]">
+<!---->        
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
+                      Denunciar esta publicación
+                    
+    </a>
+
+<!---->  
+                </li>
+<!---->          
+        </ul>
+
+<!---->    </div>
+  
+
+      </div>
+  
+        
+
+      
+            
+            
+  <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
+    <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
+        " dir="ltr" data-test-id="main-feed-activity-card__commentary">Hai mai provato ad hackerare un AI?
+
+Vuoi provare?
+
+Al link sotto trovi un interfaccia fatta appositamente per questo:
+Dovrai cercare di bypassare con tutte le tecniche di prompt hacking che conosci il modello Gandalf:
+
+<a class="link" href="https://lnkd.in/dwVVkjWf?trk=public_post_main-feed-card-text" target="_self" rel="nofollow" data-tracking-control-name="public_post_main-feed-card-text" data-tracking-will-navigate>https://lnkd.in/dwVVkjWf</a>
+
+Se ci sai fare in meno di un'oretta riesci a passare tutti i livelli. Good luck!
+
+<a class="link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fai&amp;trk=public_post_main-feed-card-text" target="_self" data-tracking-control-name="public_post_main-feed-card-text" data-tracking-will-navigate>#ai</a> <a class="link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fhacking&amp;trk=public_post_main-feed-card-text" target="_self" data-tracking-control-name="public_post_main-feed-card-text" data-tracking-will-navigate>#hacking</a> <a class="link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fprompthacking&amp;trk=public_post_main-feed-card-text" target="_self" data-tracking-control-name="public_post_main-feed-card-text" data-tracking-will-navigate>#prompthacking</a> <a class="link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Flakera&amp;trk=public_post_main-feed-card-text" target="_self" data-tracking-control-name="public_post_main-feed-card-text" data-tracking-will-navigate>#lakera</a> <a class="link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fllm&amp;trk=public_post_main-feed-card-text" target="_self" data-tracking-control-name="public_post_main-feed-card-text" data-tracking-will-navigate>#llm</a></p>
+<!---->  </div>
+
+
+
+        
+
+      
+            
+      
+<!---->      
+    
+    
+
+    
+      <a href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fgandalf%2Elakera%2Eai%2F&amp;urlhash=KJu-&amp;trk=public_post_main-feed-card_feed-article-content" target="_self" data-tracking-control-name="public_post_main-feed-card_feed-article-content" data-tracking-will-navigate class="flex flex-col feed-article-content" data-test-id="article-content">
+        
+
+        <img alt="Gandalf | Lakera – Test your prompting skills to make Gandalf reveal secret information." class="lazy-load w-main-feed-card-media object-cover babybear:max-h-[225px]" data-delayed-url="https://media.licdn.com/dms/image/sync/v2/D5627AQFwgk81ydVGvQ/articleshare-shrink_800/articleshare-shrink_800/0/1722471512526?e=2147483647&amp;v=beta&amp;t=qozwyg-CFDPf4mgOz7PwbYkvSteqkQEY_XXXXheBmLU" data-ghost-classes="tw-feed-content-ghost-image" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9l8dv1r8a09nem281grvopn9l">
+      <section class="flex justify-between article-content__header
+           py-1">
+        <header>
+            <h2 class="tw-feed-content-title" dir="ltr" data-test-id="article-content__title">
+              Gandalf | Lakera – Test your prompting skills to make Gandalf reveal secret information.
+            </h2>
+
+            <h3 class="tw-feed-content-subtitle" data-test-id="article-content__subtitle">
+                gandalf.lakera.ai
+            </h3>
+        </header>
+<!---->      </section>
+    
+      </a>
+  
+  
+  
+      
+  
+                  
+      
+          
+<!---->    
+        
+
+      
+          
+      
+
+    
+
+    
+
+    
+
+<!---->  
+    
+        
+
+      
+          
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <code id="i18n_reaction_singular" style="display: none"><!--"%numReactions% reacción"--></code>
+    <code id="i18n_reactions_plural" style="display: none"><!--"%numReactions% reacciones"--></code>
+
+      <div class="flex items-center font-sans text-sm babybear:text-xs main-feed-activity-card__social-actions">
+            
+      <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fit.linkedin.com%2Fposts%2Fmariosantella_gandalf-lakera-test-your-prompting-skills-activity-7227985822665330688-5LFs&amp;trk=public_post_main-feed-card_social-actions-reactions" target="_self" data-tracking-control-name="public_post_main-feed-card_social-actions-reactions" data-tracking-will-navigate class="flex items-center font-normal text-color-text-low-emphasis no-underline visited:text-color-text-low-emphasis  my-1" aria-label="1 reacción" data-separate-ctas="false" data-test-id="social-actions__reactions" data-id="social-actions__reactions" data-num-reactions="1" data-singular="%numReactions%" data-plural="%numReactions%" tabindex="0">
+        
+                    <img alt data-reaction-type="LIKE" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9sun4diznbhgyelaeryxy75ur" height="16px" width="16px">
+
+              <span aria-hidden="true" class="font-normal ml-0.5" data-test-id="social-actions__reaction-count">
+                    1
+              </span>
+            
+      </a>
+  
+                  <code id="social-actions__reaction-image-APPRECIATION" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/cib97epu77mrzque5gqlzjgaw"--></code>
+<!----><!---->                  <code id="social-actions__reaction-image-EMPATHY" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/37hg81qnm85dsy5mbqfifg9qs"--></code>
+                  <code id="social-actions__reaction-image-ENTERTAINMENT" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/e7ppwfmo0if15fgie4q5r4us4"--></code>
+<!---->                  <code id="social-actions__reaction-image-INTEREST" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/4v7dh2d6cuqm24mzps1pqzeqt"--></code>
+                  <code id="social-actions__reaction-image-LIKE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/9sun4diznbhgyelaeryxy75ur"--></code>
+                  <code id="social-actions__reaction-image-MAYBE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/4iy169rwfs5rdhspekg2r5wc6"--></code>
+                  <code id="social-actions__reaction-image-PRAISE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/cjrxeu0ese8oxe32kiom8kzoh"--></code>
+<!----><!---->            
+      <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fit.linkedin.com%2Fposts%2Fmariosantella_gandalf-lakera-test-your-prompting-skills-activity-7227985822665330688-5LFs&amp;trk=public_post_main-feed-card_social-actions-comments" target="_self" data-tracking-control-name="public_post_main-feed-card_social-actions-comments" data-tracking-will-navigate class="flex items-center font-normal text-color-text-low-emphasis no-underline visited:text-color-text-low-emphasis
+                before:middot
+                my-1" data-separate-ctas="false" data-test-id="social-actions__comments" data-id="social-actions__comments" data-num-comments="1" data-singular="%numComments% comentario" data-plural="%numComments% comentarios">
+        
+                1 comentario
+            
+      </a>
+  
+<!---->      </div>
+  
+  
+        
+
+      
+              
+    
+    
+    
+
+    <div class="social-action-bar border-t-1 border-solid border-color-border-faint min-h-[44px] items-center
+        
+        flex flex-wrap babybear:justify-around
+         !m-0">
+      
+  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fit.linkedin.com%2Fposts%2Fmariosantella_gandalf-lakera-test-your-prompting-skills-activity-7227985822665330688-5LFs&amp;trk=public_post_main-feed-card_like-cta" data-tracking-control-name="public_post_main-feed-card_like-cta" data-tracking-will-navigate>
+    <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
+    </icon>
+    <span class="social-action-bar__button-text ">
+      Recomendar
+    </span>
+  </a>
+
+        
+  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fit.linkedin.com%2Fposts%2Fmariosantella_gandalf-lakera-test-your-prompting-skills-activity-7227985822665330688-5LFs&amp;trk=public_post_main-feed-card_comment-cta" data-tracking-control-name="public_post_main-feed-card_comment-cta" data-tracking-will-navigate>
+    <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
+    </icon>
+    <span class="social-action-bar__button-text ">
+      Comentar
+    </span>
+  </a>
+
+        
+      
+
+    
+    
+    
+    
+
+    <code id="i18n_copy_cta_message_success" style="display: none"><!--"Se ha copiado el enlace en el portapapeles."--></code>
+    <code id="i18n_copy_cta_message_error" style="display: none"><!--"Ha ocurrido un error al copiar en el portapapeles."--></code>
+
+    
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto social-share inline-block relative select-none share-button " data-share-message="Compartir" data-share-url="https://it.linkedin.com/posts/mariosantella_gandalf-lakera-test-your-prompting-skills-activity-7227985822665330688-5LFs?utm_source=li_share&amp;utm_content=public_post&amp;utm_medium=g_dt_web">
+          
+        <button aria-expanded="false" class="social-share__button social-share__button-square
+            social-share-button social-action-bar__button
+            
+            
+            social-share-button--square
+            " aria-label data-tracking-control-name="public_post_main-feed-card_social-share_main_button">
+          <icon class="social-share__button-icon " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/852gyy4s01pfis5qf9k99s6d2" data-svg-class-name="social-share-button-icon social-action-bar__icon--svg "></icon>
+            <span class="social-share__button-text-square
+                social-action-bar__button-text
+                ">
+              Compartir
+            </span>
+        </button>
+      
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+        
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_copy" class="social-share__item social-share-item" data-share-service="copy">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/aup4g97pdky3ff73gv9lyhjvx"></icon>
+      <span class="social-share__item-text pl-1">Copiar</span>
+    </button>
+  </li>
+
+
+        
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_linkedin" class="social-share__item social-share-item" data-share-service="linkedin">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2uoxvguhsfspfnmr6tvfuyw4y" data-svg-class-name="text-color-text"></icon>
+      <span class="social-share__item-text pl-1">LinkedIn</span>
+    </button>
+  </li>
+
+          
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_facebook" class="social-share__item social-share-item" data-share-service="facebook">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/5xkjpykqkamtr6skk0vodqwd2"></icon>
+      <span class="social-share__item-text pl-1">Facebook</span>
+    </button>
+  </li>
+
+          
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_twitter" class="social-share__item social-share-item" data-share-service="twitter">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4bmfmbwr1b97362o29qmjo1zj"></icon>
+      <span class="social-share__item-text pl-1">Twitter</span>
+    </button>
+  </li>
+
+<!---->      
+        </ul>
+
+<!---->    </div>
+  
+  
+  
+        
+<!---->                
+    </div>
+  
+                    
+
+      
+<!---->        
+
+      
+            
+
+    
+    
+    
+    
+    
+    
+
+    <p class="feed-cta-banner__text border-t-1 border-color-surface-border border-solid p-3 text-center text-md text-color-text-low-emphasis">
+        <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fit.linkedin.com%2Fposts%2Fmariosantella_gandalf-lakera-test-your-prompting-skills-activity-7227985822665330688-5LFs&trk=public_post_main-feed-card_feed-cta-banner-cta" target="" aria-label="Inicia sesión para ver o añadir un comentario." data-tracking-control-name="public_post_main-feed-card_feed-cta-banner-cta" data-tracking-will-navigate="true" class="feed-cta-banner__link link">Inicia sesión</a> para ver o añadir un comentario.
+    </p>
+  
+        
+    </article>
+  
+      <code id="is-mobile" style="display: none"><!--false--></code>
+  
+
+        
+
+  
+                  
+      </div>
+  
+                </li>
+                <li class="mb-1.5">
+                  
+      <div class="link-overlay relative">
+        <a aria-label="Más publicaciones relevantes" class="absolute left-0 top-0 h-full w-full z-1 !border-0" data-tracking-control-name="link-overlay-public_post-posts-cross-linking" href="https://it.linkedin.com/posts/mariosantella_c%C3%A8-tanto-lavoro-da-fare-lato-security-anche-activity-7221945242059460611-98ar" target="_self"></a>
+        
+                    
+        
+    
+          
+  
+      
+
+    <article class="relative pt-1.5 px-2 pb-0 bg-color-background-container
+        container-lined main-feed-activity-card papabear:max-w-[550px] related-posts__related-post !max-w-none" data-activity-urn="urn:li:activity:7221945242059460611" data-featured-activity-urn="urn:li:activity:7221945242059460611" data-attributed-urn="urn:li:ugcPost:7221945240851480576" data-id="main-feed-card">
+      
+              
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+<!---->  
+        
+
+      
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <div class="flex items-center font-sans mb-1" data-test-id="main-feed-activity-card__entity-lockup">
+          <a href="https://it.linkedin.com/in/mariosantella?trk=public_post_main-feed-card_feed-actor-image" class="relative" data-tracking-control-name="public_post_main-feed-card_feed-actor-image" data-tracking-will-navigate>
+            
+      <img class="inline-block relative
+          rounded-[50%]
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/C5603AQFBUhDW6w1zAg/profile-displayphoto-shrink_400_400/0/1556113150548?e=2147483647&amp;v=beta&amp;t=fWj5cyEPzMKE1V58Umn3hUr31q4KYlyXmUq81ouKpfw" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Ver el perfil de Mario Santella, gráfico">
+  
+<!---->          </a>
+      <div class="flex flex-col self-start min-w-0
+          ml-1
+          ">
+        <div class="text-color-text ">
+            <a class="text-sm link-styled no-underline leading-open" href="https://it.linkedin.com/in/mariosantella?trk=public_post_main-feed-card_feed-actor-name" data-tracking-control-name="public_post_main-feed-card_feed-actor-name" aria-label="Ver el perfil de Mario Santella" data-tracking-will-navigate>
+              Mario Santella
+            </a>
+<!----><!---->        </div>
+
+            <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] m-0 truncate">
+<!---->                🔒💻 IT &amp; Security Consultant / Developer | Cybersecurity &amp; Database Security 🛡️ | MongoDB Atlas DBA 🌐 | Python, PHP, JavaScript, Flet Developer 🔧 +12 yrs experience
+            </p>
+
+            <span class="!text-xs text-color-text-low-emphasis leading-[1.33333] flex">
+                <time class="flex-none">
+                  
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 semanas
+  
+<!---->                </time>
+<!---->            </span>
+                </div>
+
+<!---->    </div>
+  
+        
+
+      
+              
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      <div class="ellipsis-menu absolute right-0 top-0 !mr-0.5" data-test-id="main-feed-activity-card__ellipsis-menu">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            <button class="ellipsis-menu__trigger
+                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
+                !py-[6px] !px-1 flex items-center rounded-[50%]
+                
+                " aria-expanded="false" aria-label="Abrir menú" data-tracking-control-name="public_post_main-feed-card_ellipsis-menu-trigger" tabindex="0">
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/671xosfpvk4c0kqtyl87hashi"></icon>
+            </button>
+          
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+              
+
+                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex">
+                  
+
+    
+    
+
+    
+
+    
+
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fit.linkedin.com%2Fposts%2Fmariosantella_c%25C3%25A8-tanto-lavoro-da-fare-lato-security-anche-activity-7221945242059460611-98ar&amp;trk=public_post_main-feed-card_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=POST&amp;_f=guest-reporting" data-tracking-control-name="public_post_main-feed-card_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate data-item-type="semaphore" data-semaphore-content-type="POST" data-semaphore-content-urn="urn:li:activity:7221945242059460611" data-semaphore-tracking-prefix="public_post_main-feed-card_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]">
+<!---->        
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
+                      Denunciar esta publicación
+                    
+    </a>
+
+<!---->  
+                </li>
+<!---->          
+        </ul>
+
+<!---->    </div>
+  
+
+      </div>
+  
+        
+
+      
+            
+            
+  <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
+    <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
+        " dir="ltr" data-test-id="main-feed-activity-card__commentary">C'è tanto lavoro da fare lato security anche qui </p>
+<!---->  </div>
+
+
+
+        
+
+      
+            
+      
+    
+      <article aria-label="Publicación compartida" class="relative pt-1.5 px-2 pb-1 mb-1 babybear:pt-0.5 babybear:pb-0 babybear:mb-0
+          container-lined
+          bg-color-background-container
+          feed-reshare-content" data-test-id="feed-reshare-content" data-attributed-urn="urn:li:ugcPost:7221533660477366272" data-activity-urn="urn:li:activity:7221771108633436161" tabindex="0">
+        
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <div class="flex items-center font-sans" data-test-id="feed-reshare-content__entity-lockup">
+          <a href="https://it.linkedin.com/in/piero-savastano-523b3016?trk=public_post_main-feed-card_reshare_feed-actor-image" target="_self" class="relative" data-tracking-control-name="public_post_main-feed-card_reshare_feed-actor-image" data-tracking-will-navigate>
+            
+      <img class="inline-block relative
+          rounded-[50%]
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/C4E03AQHFnrGVzHNLHQ/profile-displayphoto-shrink_400_400/0/1568368946159?e=2147483647&amp;v=beta&amp;t=2sH9HuaMDXgnyQMdqFT9OLsLH-rHXxMXgRhmNkOF8LE" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Ver el perfil de Piero Savastano, gráfico">
+  
+<!---->          </a>
+      <div class="flex flex-col self-start min-w-0
+          ml-1
+          ">
+        <div class="text-color-text ">
+            <a class="text-sm link-styled no-underline leading-open" href="https://it.linkedin.com/in/piero-savastano-523b3016?trk=public_post_main-feed-card_reshare_feed-actor-name" target="_self" data-tracking-control-name="public_post_main-feed-card_reshare_feed-actor-name" aria-label="Ver el perfil de Piero Savastano" data-tracking-will-navigate>
+              Piero Savastano
+            </a>
+<!----><!---->        </div>
+
+            <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] m-0 truncate">
+<!---->                Data science / AI / Open Source
+            </p>
+
+            <span class="!text-xs text-color-text-low-emphasis leading-[1.33333] flex">
+                <time class="flex-none">
+                  
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 semanas
+  
+<!---->                </time>
+<!---->            </span>
+                </div>
+
+<!---->    </div>
+  
+
+        
+            
+  <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
+    <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
+        " dir="ltr" data-test-id="feed-reshare-content__commentary">Ecco come si bucano le AI:
+- prompt injection
+- jailbreak
+- system prompt extraction
+
+La "instructions hierarchy" di OpenAI potrebbe essere una buona contromisura.
+
+Ci avviciniamo sempre di più alle 3 leggi della robotica di Asimov.</p>
+<!---->  </div>
+
+
+
+        
+      
+<!---->      
+    <div class="share-native-video w-main-feed-card-media
+          " data-test-id="feed-native-video-content">
+      <video class="share-native-video__node video-js" crossorigin="anonymous" data-sources="[{&quot;src&quot;:&quot;https://dms.licdn.com/playlist/vid/D5605AQEjRRhohHptGQ/feedshare-ambry-analyzed_servable_progressive_video/0/1721747795635?e=2147483647&amp;v=beta&amp;t=3wvagf1e4PcYK-BYHEwGcl7Yv6qc4LkAKMvgbwg8nZg&quot;,&quot;type&quot;:&quot;video/mp4&quot;,&quot;data-bitrate&quot;:3502853},{&quot;src&quot;:&quot;https://dms.licdn.com/playlist/vid/D5605AQEjRRhohHptGQ/mp4-640p-30fp-crf28/0/1721747824078?e=2147483647&amp;v=beta&amp;t=AYe6b7K6TwwQEq13_PKuk-qUyaPMZxc6YFc6tg1wbSA&quot;,&quot;type&quot;:&quot;video/mp4&quot;,&quot;data-bitrate&quot;:474570},{&quot;src&quot;:&quot;https://dms.licdn.com/playlist/vid/D5605AQEjRRhohHptGQ/mp4-720p-30fp-crf28/0/1721747830431?e=2147483647&amp;v=beta&amp;t=Q5IlX_o_f00AD3l0wnX3yIrkfjG7e9HRd_4X9yf32ks&quot;,&quot;type&quot;:&quot;video/mp4&quot;,&quot;data-bitrate&quot;:639645}]" data-poster-url="https://media.licdn.com/dms/image/D5605AQEjRRhohHptGQ/videocover-high/0/1721747797325?e=2147483647&amp;v=beta&amp;t=RSnNnOnmafFXxqPJXatOz2HimKwo_hqWMg4I14AN14I" data-digitalmedia-asset-urn="urn:li:digitalmediaAsset:D5605AQEjRRhohHptGQ" data-tracking-id="dcYwGonvSciyJysnDVbcsg==" playsinline>
+      </video>
+    </div>
+  
+<!----><!---->  
+  
+      </article>
+  
+  
+                  
+      
+          
+<!---->    
+        
+
+      
+          
+      
+
+    
+
+    
+
+    
+
+<!---->  
+    
+        
+
+      
+          
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <code id="i18n_reaction_singular" style="display: none"><!--"%numReactions% reacción"--></code>
+    <code id="i18n_reactions_plural" style="display: none"><!--"%numReactions% reacciones"--></code>
+
+      <div class="flex items-center font-sans text-sm babybear:text-xs main-feed-activity-card__social-actions">
+            
+      <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fit.linkedin.com%2Fposts%2Fmariosantella_c%25C3%25A8-tanto-lavoro-da-fare-lato-security-anche-activity-7221945242059460611-98ar&amp;trk=public_post_main-feed-card_social-actions-reactions" target="_self" data-tracking-control-name="public_post_main-feed-card_social-actions-reactions" data-tracking-will-navigate class="flex items-center font-normal text-color-text-low-emphasis no-underline visited:text-color-text-low-emphasis  my-1" aria-label="2 reacciones" data-separate-ctas="false" data-test-id="social-actions__reactions" data-id="social-actions__reactions" data-num-reactions="2" data-singular="%numReactions%" data-plural="%numReactions%" tabindex="0">
+        
+                    <img alt data-reaction-type="LIKE" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9sun4diznbhgyelaeryxy75ur" height="16px" width="16px">
+
+              <span aria-hidden="true" class="font-normal ml-0.5" data-test-id="social-actions__reaction-count">
+                    2
+              </span>
+            
+      </a>
+  
+                  <code id="social-actions__reaction-image-APPRECIATION" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/cib97epu77mrzque5gqlzjgaw"--></code>
+<!----><!---->                  <code id="social-actions__reaction-image-EMPATHY" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/37hg81qnm85dsy5mbqfifg9qs"--></code>
+                  <code id="social-actions__reaction-image-ENTERTAINMENT" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/e7ppwfmo0if15fgie4q5r4us4"--></code>
+<!---->                  <code id="social-actions__reaction-image-INTEREST" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/4v7dh2d6cuqm24mzps1pqzeqt"--></code>
+                  <code id="social-actions__reaction-image-LIKE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/9sun4diznbhgyelaeryxy75ur"--></code>
+                  <code id="social-actions__reaction-image-MAYBE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/4iy169rwfs5rdhspekg2r5wc6"--></code>
+                  <code id="social-actions__reaction-image-PRAISE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/cjrxeu0ese8oxe32kiom8kzoh"--></code>
+<!----><!----><!----><!---->      </div>
+  
+  
+        
+
+      
+              
+    
+    
+    
+
+    <div class="social-action-bar border-t-1 border-solid border-color-border-faint min-h-[44px] items-center
+        
+        flex flex-wrap babybear:justify-around
+         !m-0">
+      
+  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fit.linkedin.com%2Fposts%2Fmariosantella_c%25C3%25A8-tanto-lavoro-da-fare-lato-security-anche-activity-7221945242059460611-98ar&amp;trk=public_post_main-feed-card_like-cta" data-tracking-control-name="public_post_main-feed-card_like-cta" data-tracking-will-navigate>
+    <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
+    </icon>
+    <span class="social-action-bar__button-text ">
+      Recomendar
+    </span>
+  </a>
+
+        
+  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fit.linkedin.com%2Fposts%2Fmariosantella_c%25C3%25A8-tanto-lavoro-da-fare-lato-security-anche-activity-7221945242059460611-98ar&amp;trk=public_post_main-feed-card_comment-cta" data-tracking-control-name="public_post_main-feed-card_comment-cta" data-tracking-will-navigate>
+    <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
+    </icon>
+    <span class="social-action-bar__button-text ">
+      Comentar
+    </span>
+  </a>
+
+        
+      
+
+    
+    
+    
+    
+
+    <code id="i18n_copy_cta_message_success" style="display: none"><!--"Se ha copiado el enlace en el portapapeles."--></code>
+    <code id="i18n_copy_cta_message_error" style="display: none"><!--"Ha ocurrido un error al copiar en el portapapeles."--></code>
+
+    
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto social-share inline-block relative select-none share-button " data-share-message="Compartir" data-share-url="https://it.linkedin.com/posts/mariosantella_c%C3%A8-tanto-lavoro-da-fare-lato-security-anche-activity-7221945242059460611-98ar?utm_source=li_share&amp;utm_content=public_post&amp;utm_medium=g_dt_web">
+          
+        <button aria-expanded="false" class="social-share__button social-share__button-square
+            social-share-button social-action-bar__button
+            
+            
+            social-share-button--square
+            " aria-label data-tracking-control-name="public_post_main-feed-card_social-share_main_button">
+          <icon class="social-share__button-icon " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/852gyy4s01pfis5qf9k99s6d2" data-svg-class-name="social-share-button-icon social-action-bar__icon--svg "></icon>
+            <span class="social-share__button-text-square
+                social-action-bar__button-text
+                ">
+              Compartir
+            </span>
+        </button>
+      
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+        
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_copy" class="social-share__item social-share-item" data-share-service="copy">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/aup4g97pdky3ff73gv9lyhjvx"></icon>
+      <span class="social-share__item-text pl-1">Copiar</span>
+    </button>
+  </li>
+
+
+        
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_linkedin" class="social-share__item social-share-item" data-share-service="linkedin">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2uoxvguhsfspfnmr6tvfuyw4y" data-svg-class-name="text-color-text"></icon>
+      <span class="social-share__item-text pl-1">LinkedIn</span>
+    </button>
+  </li>
+
+          
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_facebook" class="social-share__item social-share-item" data-share-service="facebook">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/5xkjpykqkamtr6skk0vodqwd2"></icon>
+      <span class="social-share__item-text pl-1">Facebook</span>
+    </button>
+  </li>
+
+          
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_twitter" class="social-share__item social-share-item" data-share-service="twitter">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4bmfmbwr1b97362o29qmjo1zj"></icon>
+      <span class="social-share__item-text pl-1">Twitter</span>
+    </button>
+  </li>
+
+<!---->      
+        </ul>
+
+<!---->    </div>
+  
+  
+  
+        
+<!---->                
+    </div>
+  
+                    
+
+      
+<!---->        
+
+      
+            
+
+    
+    
+    
+    
+    
+    
+
+    <p class="feed-cta-banner__text border-t-1 border-color-surface-border border-solid p-3 text-center text-md text-color-text-low-emphasis">
+        <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fit.linkedin.com%2Fposts%2Fmariosantella_c%25C3%25A8-tanto-lavoro-da-fare-lato-security-anche-activity-7221945242059460611-98ar&trk=public_post_main-feed-card_feed-cta-banner-cta" target="" aria-label="Inicia sesión para ver o añadir un comentario." data-tracking-control-name="public_post_main-feed-card_feed-cta-banner-cta" data-tracking-will-navigate="true" class="feed-cta-banner__link link">Inicia sesión</a> para ver o añadir un comentario.
+    </p>
+  
+        
+    </article>
+  
+      <code id="is-mobile" style="display: none"><!--false--></code>
+  
+
+        
+
+  
+                  
+      </div>
+  
+                </li>
+                <li class="mb-1.5">
+                  
+      <div class="link-overlay relative">
+        <a aria-label="Más publicaciones relevantes" class="absolute left-0 top-0 h-full w-full z-1 !border-0" data-tracking-control-name="link-overlay-public_post-posts-cross-linking" href="https://www.linkedin.com/posts/mariosantella_cyberactforum2021-gianluigi-bonanomi-activity-7209847014178627584-jgGj" target="_self"></a>
+        
+                    
+        
+    
+          
+  
+      
+
+    <article class="relative pt-1.5 px-2 pb-0 bg-color-background-container
+        container-lined main-feed-activity-card papabear:max-w-[550px] related-posts__related-post !max-w-none" data-activity-urn="urn:li:activity:7209847014178627584" data-featured-activity-urn="urn:li:activity:7209847014178627584" data-attributed-urn="urn:li:share:7209847013331390464" data-id="main-feed-card">
+      
+              
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+<!---->  
+        
+
+      
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <div class="flex items-center font-sans mb-1" data-test-id="main-feed-activity-card__entity-lockup">
+          <a href="https://it.linkedin.com/in/mariosantella?trk=public_post_main-feed-card_feed-actor-image" class="relative" data-tracking-control-name="public_post_main-feed-card_feed-actor-image" data-tracking-will-navigate>
+            
+      <img class="inline-block relative
+          rounded-[50%]
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/C5603AQFBUhDW6w1zAg/profile-displayphoto-shrink_400_400/0/1556113150548?e=2147483647&amp;v=beta&amp;t=fWj5cyEPzMKE1V58Umn3hUr31q4KYlyXmUq81ouKpfw" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Ver el perfil de Mario Santella, gráfico">
+  
+<!---->          </a>
+      <div class="flex flex-col self-start min-w-0
+          ml-1
+          ">
+        <div class="text-color-text ">
+            <a class="text-sm link-styled no-underline leading-open" href="https://it.linkedin.com/in/mariosantella?trk=public_post_main-feed-card_feed-actor-name" data-tracking-control-name="public_post_main-feed-card_feed-actor-name" aria-label="Ver el perfil de Mario Santella" data-tracking-will-navigate>
+              Mario Santella
+            </a>
+<!----><!---->        </div>
+
+            <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] m-0 truncate">
+<!---->                🔒💻 IT &amp; Security Consultant / Developer | Cybersecurity &amp; Database Security 🛡️ | MongoDB Atlas DBA 🌐 | Python, PHP, JavaScript, Flet Developer 🔧 +12 yrs experience
+            </p>
+
+            <span class="!text-xs text-color-text-low-emphasis leading-[1.33333] flex">
+                <time class="flex-none">
+                  
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 mes
+  
+<!---->                </time>
+<!---->            </span>
+                </div>
+
+<!---->    </div>
+  
+        
+
+      
+              
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      <div class="ellipsis-menu absolute right-0 top-0 !mr-0.5" data-test-id="main-feed-activity-card__ellipsis-menu">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            <button class="ellipsis-menu__trigger
+                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
+                !py-[6px] !px-1 flex items-center rounded-[50%]
+                
+                " aria-expanded="false" aria-label="Abrir menú" data-tracking-control-name="public_post_main-feed-card_ellipsis-menu-trigger" tabindex="0">
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/671xosfpvk4c0kqtyl87hashi"></icon>
+            </button>
+          
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+              
+
+                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex">
+                  
+
+    
+    
+
+    
+
+    
+
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmariosantella_cyberactforum2021-gianluigi-bonanomi-activity-7209847014178627584-jgGj&amp;trk=public_post_main-feed-card_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=POST&amp;_f=guest-reporting" data-tracking-control-name="public_post_main-feed-card_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate data-item-type="semaphore" data-semaphore-content-type="POST" data-semaphore-content-urn="urn:li:activity:7209847014178627584" data-semaphore-tracking-prefix="public_post_main-feed-card_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]">
+<!---->        
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
+                      Denunciar esta publicación
+                    
+    </a>
+
+<!---->  
+                </li>
+<!---->          
+        </ul>
+
+<!---->    </div>
+  
+
+      </div>
+  
+        
+
+      
+            
+    <!---->
+
+        
+
+      
+            
+      
+    
+    
+      <div class="flex flex-col" data-test-id="ingested-content-summary-external-video-content">
+        
+          
+    
+
+      <iframe allowfullscreen data-delayed-url="https://www.youtube-nocookie.com/embed/NZR-g-Vp4os?modestbranding=1&amp;rel=0&amp;autoplay=0&amp;hl=es" frameborder="0" sandbox="allow-forms allow-scripts allow-same-origin allow-presentation" scrolling="no" title="Contenido de vídeo" class="h-[293px] w-main-feed-card-media object-cover"></iframe>
+  
+
+        <section class="py-1" data-test-id="ingested-content-summary-external-video-content__headings" data-feed-control="update_external_video_description" data-feed-action-type="viewLink">
+            <a href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fwatch%3Fv%3DNZR-g-Vp4os&amp;urlhash=LyzZ&amp;trk=public_post_main-feed-card_ingested-content-summary-external-video-content" target="_self" data-tracking-control-name="public_post_main-feed-card_ingested-content-summary-external-video-content" data-tracking-will-navigate>
+              
+  <h3 class="tw-feed-content-title" dir="ltr">
+    #CyberActForum2021  - Gianluigi Bonanomi - Sbatti l'hacker in prima pagina
+  </h3>
+
+            </a>
+
+            <h4 class="tw-feed-content-subtitle">
+              https://www.youtube.com/
+            </h4>
+        </section>
+    
+      </div>
+  
+  
+
+<!---->  
+  
+                  
+      
+          
+<!---->    
+        
+
+      
+          
+      
+
+    
+
+    
+
+    
+
+<!---->  
+    
+        
+
+      
+          
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <code id="i18n_reaction_singular" style="display: none"><!--"%numReactions% reacción"--></code>
+    <code id="i18n_reactions_plural" style="display: none"><!--"%numReactions% reacciones"--></code>
+
+      <div class="flex items-center font-sans text-sm babybear:text-xs main-feed-activity-card__social-actions">
+            
+      <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmariosantella_cyberactforum2021-gianluigi-bonanomi-activity-7209847014178627584-jgGj&amp;trk=public_post_main-feed-card_social-actions-reactions" target="_self" data-tracking-control-name="public_post_main-feed-card_social-actions-reactions" data-tracking-will-navigate class="flex items-center font-normal text-color-text-low-emphasis no-underline visited:text-color-text-low-emphasis  my-1" aria-label="2 reacciones" data-separate-ctas="false" data-test-id="social-actions__reactions" data-id="social-actions__reactions" data-num-reactions="2" data-singular="%numReactions%" data-plural="%numReactions%" tabindex="0">
+        
+                    <img alt data-reaction-type="LIKE" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9sun4diznbhgyelaeryxy75ur" height="16px" width="16px">
+
+              <span aria-hidden="true" class="font-normal ml-0.5" data-test-id="social-actions__reaction-count">
+                    2
+              </span>
+            
+      </a>
+  
+                  <code id="social-actions__reaction-image-APPRECIATION" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/cib97epu77mrzque5gqlzjgaw"--></code>
+<!----><!---->                  <code id="social-actions__reaction-image-EMPATHY" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/37hg81qnm85dsy5mbqfifg9qs"--></code>
+                  <code id="social-actions__reaction-image-ENTERTAINMENT" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/e7ppwfmo0if15fgie4q5r4us4"--></code>
+<!---->                  <code id="social-actions__reaction-image-INTEREST" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/4v7dh2d6cuqm24mzps1pqzeqt"--></code>
+                  <code id="social-actions__reaction-image-LIKE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/9sun4diznbhgyelaeryxy75ur"--></code>
+                  <code id="social-actions__reaction-image-MAYBE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/4iy169rwfs5rdhspekg2r5wc6"--></code>
+                  <code id="social-actions__reaction-image-PRAISE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/cjrxeu0ese8oxe32kiom8kzoh"--></code>
+<!----><!----><!----><!---->      </div>
+  
+  
+        
+
+      
+              
+    
+    
+    
+
+    <div class="social-action-bar border-t-1 border-solid border-color-border-faint min-h-[44px] items-center
+        
+        flex flex-wrap babybear:justify-around
+         !m-0">
+      
+  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmariosantella_cyberactforum2021-gianluigi-bonanomi-activity-7209847014178627584-jgGj&amp;trk=public_post_main-feed-card_like-cta" data-tracking-control-name="public_post_main-feed-card_like-cta" data-tracking-will-navigate>
+    <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
+    </icon>
+    <span class="social-action-bar__button-text ">
+      Recomendar
+    </span>
+  </a>
+
+        
+  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmariosantella_cyberactforum2021-gianluigi-bonanomi-activity-7209847014178627584-jgGj&amp;trk=public_post_main-feed-card_comment-cta" data-tracking-control-name="public_post_main-feed-card_comment-cta" data-tracking-will-navigate>
+    <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
+    </icon>
+    <span class="social-action-bar__button-text ">
+      Comentar
+    </span>
+  </a>
+
+        
+      
+
+    
+    
+    
+    
+
+    <code id="i18n_copy_cta_message_success" style="display: none"><!--"Se ha copiado el enlace en el portapapeles."--></code>
+    <code id="i18n_copy_cta_message_error" style="display: none"><!--"Ha ocurrido un error al copiar en el portapapeles."--></code>
+
+    
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto social-share inline-block relative select-none share-button " data-share-message="Compartir" data-share-url="https://www.linkedin.com/posts/mariosantella_cyberactforum2021-gianluigi-bonanomi-activity-7209847014178627584-jgGj?utm_source=li_share&amp;utm_content=public_post&amp;utm_medium=g_dt_web">
+          
+        <button aria-expanded="false" class="social-share__button social-share__button-square
+            social-share-button social-action-bar__button
+            
+            
+            social-share-button--square
+            " aria-label data-tracking-control-name="public_post_main-feed-card_social-share_main_button">
+          <icon class="social-share__button-icon " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/852gyy4s01pfis5qf9k99s6d2" data-svg-class-name="social-share-button-icon social-action-bar__icon--svg "></icon>
+            <span class="social-share__button-text-square
+                social-action-bar__button-text
+                ">
+              Compartir
+            </span>
+        </button>
+      
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+        
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_copy" class="social-share__item social-share-item" data-share-service="copy">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/aup4g97pdky3ff73gv9lyhjvx"></icon>
+      <span class="social-share__item-text pl-1">Copiar</span>
+    </button>
+  </li>
+
+
+        
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_linkedin" class="social-share__item social-share-item" data-share-service="linkedin">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2uoxvguhsfspfnmr6tvfuyw4y" data-svg-class-name="text-color-text"></icon>
+      <span class="social-share__item-text pl-1">LinkedIn</span>
+    </button>
+  </li>
+
+          
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_facebook" class="social-share__item social-share-item" data-share-service="facebook">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/5xkjpykqkamtr6skk0vodqwd2"></icon>
+      <span class="social-share__item-text pl-1">Facebook</span>
+    </button>
+  </li>
+
+          
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_twitter" class="social-share__item social-share-item" data-share-service="twitter">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4bmfmbwr1b97362o29qmjo1zj"></icon>
+      <span class="social-share__item-text pl-1">Twitter</span>
+    </button>
+  </li>
+
+<!---->      
+        </ul>
+
+<!---->    </div>
+  
+  
+  
+        
+<!---->                
+    </div>
+  
+                    
+
+      
+<!---->        
+
+      
+            
+
+    
+    
+    
+    
+    
+    
+
+    <p class="feed-cta-banner__text border-t-1 border-color-surface-border border-solid p-3 text-center text-md text-color-text-low-emphasis">
+        <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmariosantella_cyberactforum2021-gianluigi-bonanomi-activity-7209847014178627584-jgGj&trk=public_post_main-feed-card_feed-cta-banner-cta" target="" aria-label="Inicia sesión para ver o añadir un comentario." data-tracking-control-name="public_post_main-feed-card_feed-cta-banner-cta" data-tracking-will-navigate="true" class="feed-cta-banner__link link">Inicia sesión</a> para ver o añadir un comentario.
+    </p>
+  
+        
+    </article>
+  
+      <code id="is-mobile" style="display: none"><!--false--></code>
+  
+
+        
+
+  
+                  
+      </div>
+  
+                </li>
+                <li class="mb-1.5">
+                  
+      <div class="link-overlay relative">
+        <a aria-label="Más publicaciones relevantes" class="absolute left-0 top-0 h-full w-full z-1 !border-0" data-tracking-control-name="link-overlay-public_post-posts-cross-linking" href="https://www.linkedin.com/posts/mariosantella_osint-information-hacking-activity-7191748911705812992-NhEc" target="_self"></a>
+        
+                    
+        
+    
+          
+  
+      
+
+    <article class="relative pt-1.5 px-2 pb-0 bg-color-background-container
+        container-lined main-feed-activity-card papabear:max-w-[550px] related-posts__related-post !max-w-none" data-activity-urn="urn:li:activity:7191748911705812992" data-featured-activity-urn="urn:li:activity:7191748911705812992" data-attributed-urn="urn:li:share:7191748909851885568" data-id="main-feed-card">
+      
+              
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+<!---->  
+        
+
+      
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <div class="flex items-center font-sans mb-1" data-test-id="main-feed-activity-card__entity-lockup">
+          <a href="https://it.linkedin.com/in/mariosantella?trk=public_post_main-feed-card_feed-actor-image" class="relative" data-tracking-control-name="public_post_main-feed-card_feed-actor-image" data-tracking-will-navigate>
+            
+      <img class="inline-block relative
+          rounded-[50%]
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/C5603AQFBUhDW6w1zAg/profile-displayphoto-shrink_400_400/0/1556113150548?e=2147483647&amp;v=beta&amp;t=fWj5cyEPzMKE1V58Umn3hUr31q4KYlyXmUq81ouKpfw" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Ver el perfil de Mario Santella, gráfico">
+  
+<!---->          </a>
+      <div class="flex flex-col self-start min-w-0
+          ml-1
+          ">
+        <div class="text-color-text ">
+            <a class="text-sm link-styled no-underline leading-open" href="https://it.linkedin.com/in/mariosantella?trk=public_post_main-feed-card_feed-actor-name" data-tracking-control-name="public_post_main-feed-card_feed-actor-name" aria-label="Ver el perfil de Mario Santella" data-tracking-will-navigate>
+              Mario Santella
+            </a>
+<!----><!---->        </div>
+
+            <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] m-0 truncate">
+<!---->                🔒💻 IT &amp; Security Consultant / Developer | Cybersecurity &amp; Database Security 🛡️ | MongoDB Atlas DBA 🌐 | Python, PHP, JavaScript, Flet Developer 🔧 +12 yrs experience
+            </p>
+
+            <span class="!text-xs text-color-text-low-emphasis leading-[1.33333] flex">
+                <time class="flex-none">
+                  
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      3 meses
+  
+<!---->                </time>
+<!---->            </span>
+                </div>
+
+<!---->    </div>
+  
+        
+
+      
+              
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      <div class="ellipsis-menu absolute right-0 top-0 !mr-0.5" data-test-id="main-feed-activity-card__ellipsis-menu">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            <button class="ellipsis-menu__trigger
+                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
+                !py-[6px] !px-1 flex items-center rounded-[50%]
+                
+                " aria-expanded="false" aria-label="Abrir menú" data-tracking-control-name="public_post_main-feed-card_ellipsis-menu-trigger" tabindex="0">
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/671xosfpvk4c0kqtyl87hashi"></icon>
+            </button>
+          
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+              
+
+                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex">
+                  
+
+    
+    
+
+    
+
+    
+
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmariosantella_osint-information-hacking-activity-7191748911705812992-NhEc&amp;trk=public_post_main-feed-card_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=POST&amp;_f=guest-reporting" data-tracking-control-name="public_post_main-feed-card_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate data-item-type="semaphore" data-semaphore-content-type="POST" data-semaphore-content-urn="urn:li:activity:7191748911705812992" data-semaphore-tracking-prefix="public_post_main-feed-card_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]">
+<!---->        
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
+                      Denunciar esta publicación
+                    
+    </a>
+
+<!---->  
+                </li>
+<!---->          
+        </ul>
+
+<!---->    </div>
+  
+
+      </div>
+  
+        
+
+      
+            
+            
+  <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
+    <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
+        " dir="ltr" data-test-id="main-feed-activity-card__commentary">Tool focused on extracting information from an account user name in different Social Networks
+
+<a class="link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fosint&amp;trk=public_post_main-feed-card-text" target="_self" data-tracking-control-name="public_post_main-feed-card-text" data-tracking-will-navigate>#OSINT</a> <a class="link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Finformation&amp;trk=public_post_main-feed-card-text" target="_self" data-tracking-control-name="public_post_main-feed-card-text" data-tracking-will-navigate>#Information</a>-Gathering <a class="link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fhacking&amp;trk=public_post_main-feed-card-text" target="_self" data-tracking-control-name="public_post_main-feed-card-text" data-tracking-will-navigate>#hacking</a></p>
+<!---->  </div>
+
+
+
+        
+
+      
+            
+      
+    
+    
+
+      <ul class="grid grid-cols-6 grid-rows-[60%_40%] w-main-feed-card-media feed-images-content list-none pl-0
+          
+          " data-test-id="feed-images-content">
+            <li class="bg-color-background-container-tint text-[0px]
+                col-span-full row-span-full 
+                " data-test-id="feed-images-content__list-item" data-position="0">
+                <img class="lazy-load w-full object-cover object-center
+                    h-full babybear:max-h-[400px]" data-delayed-url="https://media.licdn.com/dms/image/v2/D4D22AQHnUxFhxL024g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1714646555218?e=2147483647&amp;v=beta&amp;t=XNUfqw2yEm2MRWwjvx431rj8FmJZhlYHN_sxK-K2drs" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/921ynb2z53z33mhm3061qvjag" alt="No hay descripción de texto alternativo para esta imagen">
+<!---->            </li>
+      </ul>
+<!---->  
+  
+                  
+      
+          
+<!---->    
+        
+
+      
+          
+      
+
+    
+
+    
+
+    
+
+<!---->  
+    
+        
+
+      
+          
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <code id="i18n_reaction_singular" style="display: none"><!--"%numReactions% reacción"--></code>
+    <code id="i18n_reactions_plural" style="display: none"><!--"%numReactions% reacciones"--></code>
+
+      <div class="flex items-center font-sans text-sm babybear:text-xs main-feed-activity-card__social-actions">
+            
+      <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmariosantella_osint-information-hacking-activity-7191748911705812992-NhEc&amp;trk=public_post_main-feed-card_social-actions-reactions" target="_self" data-tracking-control-name="public_post_main-feed-card_social-actions-reactions" data-tracking-will-navigate class="flex items-center font-normal text-color-text-low-emphasis no-underline visited:text-color-text-low-emphasis  my-1" aria-label="3 reacciones" data-separate-ctas="false" data-test-id="social-actions__reactions" data-id="social-actions__reactions" data-num-reactions="3" data-singular="%numReactions%" data-plural="%numReactions%" tabindex="0">
+        
+                    <img alt data-reaction-type="LIKE" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9sun4diznbhgyelaeryxy75ur" height="16px" width="16px">
+
+              <span aria-hidden="true" class="font-normal ml-0.5" data-test-id="social-actions__reaction-count">
+                    3
+              </span>
+            
+      </a>
+  
+                  <code id="social-actions__reaction-image-APPRECIATION" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/cib97epu77mrzque5gqlzjgaw"--></code>
+<!----><!---->                  <code id="social-actions__reaction-image-EMPATHY" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/37hg81qnm85dsy5mbqfifg9qs"--></code>
+                  <code id="social-actions__reaction-image-ENTERTAINMENT" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/e7ppwfmo0if15fgie4q5r4us4"--></code>
+<!---->                  <code id="social-actions__reaction-image-INTEREST" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/4v7dh2d6cuqm24mzps1pqzeqt"--></code>
+                  <code id="social-actions__reaction-image-LIKE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/9sun4diznbhgyelaeryxy75ur"--></code>
+                  <code id="social-actions__reaction-image-MAYBE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/4iy169rwfs5rdhspekg2r5wc6"--></code>
+                  <code id="social-actions__reaction-image-PRAISE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/cjrxeu0ese8oxe32kiom8kzoh"--></code>
+<!----><!----><!----><!---->      </div>
+  
+  
+        
+
+      
+              
+    
+    
+    
+
+    <div class="social-action-bar border-t-1 border-solid border-color-border-faint min-h-[44px] items-center
+        
+        flex flex-wrap babybear:justify-around
+         !m-0">
+      
+  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmariosantella_osint-information-hacking-activity-7191748911705812992-NhEc&amp;trk=public_post_main-feed-card_like-cta" data-tracking-control-name="public_post_main-feed-card_like-cta" data-tracking-will-navigate>
+    <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
+    </icon>
+    <span class="social-action-bar__button-text ">
+      Recomendar
+    </span>
+  </a>
+
+        
+  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmariosantella_osint-information-hacking-activity-7191748911705812992-NhEc&amp;trk=public_post_main-feed-card_comment-cta" data-tracking-control-name="public_post_main-feed-card_comment-cta" data-tracking-will-navigate>
+    <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
+    </icon>
+    <span class="social-action-bar__button-text ">
+      Comentar
+    </span>
+  </a>
+
+        
+      
+
+    
+    
+    
+    
+
+    <code id="i18n_copy_cta_message_success" style="display: none"><!--"Se ha copiado el enlace en el portapapeles."--></code>
+    <code id="i18n_copy_cta_message_error" style="display: none"><!--"Ha ocurrido un error al copiar en el portapapeles."--></code>
+
+    
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto social-share inline-block relative select-none share-button " data-share-message="Compartir" data-share-url="https://www.linkedin.com/posts/mariosantella_osint-information-hacking-activity-7191748911705812992-NhEc?utm_source=li_share&amp;utm_content=public_post&amp;utm_medium=g_dt_web">
+          
+        <button aria-expanded="false" class="social-share__button social-share__button-square
+            social-share-button social-action-bar__button
+            
+            
+            social-share-button--square
+            " aria-label data-tracking-control-name="public_post_main-feed-card_social-share_main_button">
+          <icon class="social-share__button-icon " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/852gyy4s01pfis5qf9k99s6d2" data-svg-class-name="social-share-button-icon social-action-bar__icon--svg "></icon>
+            <span class="social-share__button-text-square
+                social-action-bar__button-text
+                ">
+              Compartir
+            </span>
+        </button>
+      
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+        
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_copy" class="social-share__item social-share-item" data-share-service="copy">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/aup4g97pdky3ff73gv9lyhjvx"></icon>
+      <span class="social-share__item-text pl-1">Copiar</span>
+    </button>
+  </li>
+
+
+        
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_linkedin" class="social-share__item social-share-item" data-share-service="linkedin">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2uoxvguhsfspfnmr6tvfuyw4y" data-svg-class-name="text-color-text"></icon>
+      <span class="social-share__item-text pl-1">LinkedIn</span>
+    </button>
+  </li>
+
+          
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_facebook" class="social-share__item social-share-item" data-share-service="facebook">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/5xkjpykqkamtr6skk0vodqwd2"></icon>
+      <span class="social-share__item-text pl-1">Facebook</span>
+    </button>
+  </li>
+
+          
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_twitter" class="social-share__item social-share-item" data-share-service="twitter">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4bmfmbwr1b97362o29qmjo1zj"></icon>
+      <span class="social-share__item-text pl-1">Twitter</span>
+    </button>
+  </li>
+
+<!---->      
+        </ul>
+
+<!---->    </div>
+  
+  
+  
+        
+<!---->                
+    </div>
+  
+                    
+
+      
+<!---->        
+
+      
+            
+
+    
+    
+    
+    
+    
+    
+
+    <p class="feed-cta-banner__text border-t-1 border-color-surface-border border-solid p-3 text-center text-md text-color-text-low-emphasis">
+        <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmariosantella_osint-information-hacking-activity-7191748911705812992-NhEc&trk=public_post_main-feed-card_feed-cta-banner-cta" target="" aria-label="Inicia sesión para ver o añadir un comentario." data-tracking-control-name="public_post_main-feed-card_feed-cta-banner-cta" data-tracking-will-navigate="true" class="feed-cta-banner__link link">Inicia sesión</a> para ver o añadir un comentario.
+    </p>
+  
+        
+    </article>
+  
+      <code id="is-mobile" style="display: none"><!--false--></code>
+  
+
+        
+
+  
+                  
+      </div>
+  
+                </li>
+                <li class="mb-1.5">
+                  
+      <div class="link-overlay relative">
+        <a aria-label="Más publicaciones relevantes" class="absolute left-0 top-0 h-full w-full z-1 !border-0" data-tracking-control-name="link-overlay-public_post-posts-cross-linking" href="https://it.linkedin.com/posts/mariosantella_cyberactforum2023-claudio-locanto-etrace-activity-7188834503929249792-3Swr" target="_self"></a>
+        
+                    
+        
+    
+          
+  
+      
+
+    <article class="relative pt-1.5 px-2 pb-0 bg-color-background-container
+        container-lined main-feed-activity-card papabear:max-w-[550px] related-posts__related-post !max-w-none" data-activity-urn="urn:li:activity:7188834503929249792" data-featured-activity-urn="urn:li:activity:7188834503929249792" data-attributed-urn="urn:li:share:7188834503237189633" data-id="main-feed-card">
+      
+              
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+<!---->  
+        
+
+      
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <div class="flex items-center font-sans mb-1" data-test-id="main-feed-activity-card__entity-lockup">
+          <a href="https://it.linkedin.com/in/mariosantella?trk=public_post_main-feed-card_feed-actor-image" class="relative" data-tracking-control-name="public_post_main-feed-card_feed-actor-image" data-tracking-will-navigate>
+            
+      <img class="inline-block relative
+          rounded-[50%]
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/C5603AQFBUhDW6w1zAg/profile-displayphoto-shrink_400_400/0/1556113150548?e=2147483647&amp;v=beta&amp;t=fWj5cyEPzMKE1V58Umn3hUr31q4KYlyXmUq81ouKpfw" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Ver el perfil de Mario Santella, gráfico">
+  
+<!---->          </a>
+      <div class="flex flex-col self-start min-w-0
+          ml-1
+          ">
+        <div class="text-color-text ">
+            <a class="text-sm link-styled no-underline leading-open" href="https://it.linkedin.com/in/mariosantella?trk=public_post_main-feed-card_feed-actor-name" data-tracking-control-name="public_post_main-feed-card_feed-actor-name" aria-label="Ver el perfil de Mario Santella" data-tracking-will-navigate>
+              Mario Santella
+            </a>
+<!----><!---->        </div>
+
+            <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] m-0 truncate">
+<!---->                🔒💻 IT &amp; Security Consultant / Developer | Cybersecurity &amp; Database Security 🛡️ | MongoDB Atlas DBA 🌐 | Python, PHP, JavaScript, Flet Developer 🔧 +12 yrs experience
+            </p>
+
+            <span class="!text-xs text-color-text-low-emphasis leading-[1.33333] flex">
+                <time class="flex-none">
+                  
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      3 meses
+  
+<!---->                </time>
+<!---->            </span>
+                </div>
+
+<!---->    </div>
+  
+        
+
+      
+              
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      <div class="ellipsis-menu absolute right-0 top-0 !mr-0.5" data-test-id="main-feed-activity-card__ellipsis-menu">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            <button class="ellipsis-menu__trigger
+                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
+                !py-[6px] !px-1 flex items-center rounded-[50%]
+                
+                " aria-expanded="false" aria-label="Abrir menú" data-tracking-control-name="public_post_main-feed-card_ellipsis-menu-trigger" tabindex="0">
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/671xosfpvk4c0kqtyl87hashi"></icon>
+            </button>
+          
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+              
+
+                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex">
+                  
+
+    
+    
+
+    
+
+    
+
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fit.linkedin.com%2Fposts%2Fmariosantella_cyberactforum2023-claudio-locanto-etrace-activity-7188834503929249792-3Swr&amp;trk=public_post_main-feed-card_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=POST&amp;_f=guest-reporting" data-tracking-control-name="public_post_main-feed-card_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate data-item-type="semaphore" data-semaphore-content-type="POST" data-semaphore-content-urn="urn:li:activity:7188834503929249792" data-semaphore-tracking-prefix="public_post_main-feed-card_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]">
+<!---->        
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
+                      Denunciar esta publicación
+                    
+    </a>
+
+<!---->  
+                </li>
+<!---->          
+        </ul>
+
+<!---->    </div>
+  
+
+      </div>
+  
+        
+
+      
+            
+            
+  <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
+    <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
+        attributed-text-segment-list__content-truncated" dir="ltr" data-test-id="main-feed-activity-card__commentary">Sicuri di non aver mai avuto a che fare con un virus sullo smartphone?
+
+Al Cyber Act Forum 2023 <a class="link" href="https://it.linkedin.com/in/claudio-locanto-88091634?trk=public_post_main-feed-card-text" target="_self" data-tracking-control-name="public_post_main-feed-card-text" data-tracking-will-navigate>Claudio Locanto</a> spiega molto bene quanto siano sempre più diffusi e come si rilevano malware sui nostri smartphone. 
+
+Consiglio di vedere questo intervento perché spiega alcune pratiche (non proprio conosciutissime) per controllare i nostri telefoni da questo tipo di minaccia.
+
+<a class="link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcybersecurity&amp;trk=public_post_main-feed-card-text" target="_self" data-tracking-control-name="public_post_main-feed-card-text" data-tracking-will-navigate>#cybersecurity</a> <a class="link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmalware&amp;trk=public_post_main-feed-card-text" target="_self" data-tracking-control-name="public_post_main-feed-card-text" data-tracking-will-navigate>#malware</a> <a class="link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fanalysis&amp;trk=public_post_main-feed-card-text" target="_self" data-tracking-control-name="public_post_main-feed-card-text" data-tracking-will-navigate>#analysis</a> <a class="link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmobile&amp;trk=public_post_main-feed-card-text" target="_self" data-tracking-control-name="public_post_main-feed-card-text" data-tracking-will-navigate>#mobile</a> <a class="link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcyberactforum&amp;trk=public_post_main-feed-card-text" target="_self" data-tracking-control-name="public_post_main-feed-card-text" data-tracking-will-navigate>#cyberactforum</a> <a class="link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fcyberactors&amp;trk=public_post_main-feed-card-text" target="_self" data-tracking-control-name="public_post_main-feed-card-text" data-tracking-will-navigate>#cyberactors</a></p>
+          
+            
+                  
+    
+    
+
+    <button class="attributed-text-segment-list__btn-truncation absolute right-0 bottom-0 pl-1 bg-color-background-container text-color-text-secondary text-sm font-medium babybear:font-bold invisible cursor-pointer hover:text-color-link-hover hover:underline" data-feed-action="see-more-post" data-feed-action-category="EXPAND" data-feed-action-type="expandCommentaryText" data-feed-control="commentary_expand" aria-hidden="true" tabindex="0">
+      …ver más
+    </button>
+  
+              
+          
+  </div>
+
+
+
+        
+
+      
+            
+      
+    
+    
+      <div class="flex flex-col" data-test-id="ingested-content-summary-external-video-content">
+        
+          
+    
+
+      <iframe allowfullscreen data-delayed-url="https://www.youtube-nocookie.com/embed/Yy4r-R1DbG4?modestbranding=1&amp;rel=0&amp;autoplay=0&amp;hl=es" frameborder="0" sandbox="allow-forms allow-scripts allow-same-origin allow-presentation" scrolling="no" title="Contenido de vídeo" class="h-[293px] w-main-feed-card-media object-cover"></iframe>
+  
+
+        <section class="py-1" data-test-id="ingested-content-summary-external-video-content__headings" data-feed-control="update_external_video_description" data-feed-action-type="viewLink">
+            <a href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fwatch%3Fv%3DYy4r-R1DbG4&amp;urlhash=tG0-&amp;trk=public_post_main-feed-card_ingested-content-summary-external-video-content" target="_self" data-tracking-control-name="public_post_main-feed-card_ingested-content-summary-external-video-content" data-tracking-will-navigate>
+              
+  <h3 class="tw-feed-content-title" dir="ltr">
+    #CyberActForum2023  - Claudio Locanto (eTrace) - Mobile Malware Analysis
+  </h3>
+
+            </a>
+
+            <h4 class="tw-feed-content-subtitle">
+              https://www.youtube.com/
+            </h4>
+        </section>
+    
+      </div>
+  
+  
+
+<!---->  
+  
+                  
+      
+          
+<!---->    
+        
+
+      
+          
+      
+
+    
+
+    
+
+    
+
+<!---->  
+    
+        
+
+      
+          
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <code id="i18n_reaction_singular" style="display: none"><!--"%numReactions% reacción"--></code>
+    <code id="i18n_reactions_plural" style="display: none"><!--"%numReactions% reacciones"--></code>
+
+      <div class="flex items-center font-sans text-sm babybear:text-xs main-feed-activity-card__social-actions">
+            
+      <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fit.linkedin.com%2Fposts%2Fmariosantella_cyberactforum2023-claudio-locanto-etrace-activity-7188834503929249792-3Swr&amp;trk=public_post_main-feed-card_social-actions-reactions" target="_self" data-tracking-control-name="public_post_main-feed-card_social-actions-reactions" data-tracking-will-navigate class="flex items-center font-normal text-color-text-low-emphasis no-underline visited:text-color-text-low-emphasis  my-1" aria-label="1 reacción" data-separate-ctas="false" data-test-id="social-actions__reactions" data-id="social-actions__reactions" data-num-reactions="1" data-singular="%numReactions%" data-plural="%numReactions%" tabindex="0">
+        
+                    <img alt data-reaction-type="LIKE" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/9sun4diznbhgyelaeryxy75ur" height="16px" width="16px">
+
+              <span aria-hidden="true" class="font-normal ml-0.5" data-test-id="social-actions__reaction-count">
+                    1
+              </span>
+            
+      </a>
+  
+                  <code id="social-actions__reaction-image-APPRECIATION" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/cib97epu77mrzque5gqlzjgaw"--></code>
+<!----><!---->                  <code id="social-actions__reaction-image-EMPATHY" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/37hg81qnm85dsy5mbqfifg9qs"--></code>
+                  <code id="social-actions__reaction-image-ENTERTAINMENT" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/e7ppwfmo0if15fgie4q5r4us4"--></code>
+<!---->                  <code id="social-actions__reaction-image-INTEREST" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/4v7dh2d6cuqm24mzps1pqzeqt"--></code>
+                  <code id="social-actions__reaction-image-LIKE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/9sun4diznbhgyelaeryxy75ur"--></code>
+                  <code id="social-actions__reaction-image-MAYBE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/4iy169rwfs5rdhspekg2r5wc6"--></code>
+                  <code id="social-actions__reaction-image-PRAISE" style="display: none"><!--"https://static.licdn.com/aero-v1/sc/h/cjrxeu0ese8oxe32kiom8kzoh"--></code>
+<!----><!----><!----><!---->      </div>
+  
+  
+        
+
+      
+              
+    
+    
+    
+
+    <div class="social-action-bar border-t-1 border-solid border-color-border-faint min-h-[44px] items-center
+        
+        flex flex-wrap babybear:justify-around
+         !m-0">
+      
+  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fit.linkedin.com%2Fposts%2Fmariosantella_cyberactforum2023-claudio-locanto-etrace-activity-7188834503929249792-3Swr&amp;trk=public_post_main-feed-card_like-cta" data-tracking-control-name="public_post_main-feed-card_like-cta" data-tracking-will-navigate>
+    <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
+    </icon>
+    <span class="social-action-bar__button-text ">
+      Recomendar
+    </span>
+  </a>
+
+        
+  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fit.linkedin.com%2Fposts%2Fmariosantella_cyberactforum2023-claudio-locanto-etrace-activity-7188834503929249792-3Swr&amp;trk=public_post_main-feed-card_comment-cta" data-tracking-control-name="public_post_main-feed-card_comment-cta" data-tracking-will-navigate>
+    <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
+    </icon>
+    <span class="social-action-bar__button-text ">
+      Comentar
+    </span>
+  </a>
+
+        
+      
+
+    
+    
+    
+    
+
+    <code id="i18n_copy_cta_message_success" style="display: none"><!--"Se ha copiado el enlace en el portapapeles."--></code>
+    <code id="i18n_copy_cta_message_error" style="display: none"><!--"Ha ocurrido un error al copiar en el portapapeles."--></code>
+
+    
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto social-share inline-block relative select-none share-button " data-share-message="Compartir" data-share-url="https://it.linkedin.com/posts/mariosantella_cyberactforum2023-claudio-locanto-etrace-activity-7188834503929249792-3Swr?utm_source=li_share&amp;utm_content=public_post&amp;utm_medium=g_dt_web">
+          
+        <button aria-expanded="false" class="social-share__button social-share__button-square
+            social-share-button social-action-bar__button
+            
+            
+            social-share-button--square
+            " aria-label data-tracking-control-name="public_post_main-feed-card_social-share_main_button">
+          <icon class="social-share__button-icon " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/852gyy4s01pfis5qf9k99s6d2" data-svg-class-name="social-share-button-icon social-action-bar__icon--svg "></icon>
+            <span class="social-share__button-text-square
+                social-action-bar__button-text
+                ">
+              Compartir
+            </span>
+        </button>
+      
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+        
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_copy" class="social-share__item social-share-item" data-share-service="copy">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/aup4g97pdky3ff73gv9lyhjvx"></icon>
+      <span class="social-share__item-text pl-1">Copiar</span>
+    </button>
+  </li>
+
+
+        
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_linkedin" class="social-share__item social-share-item" data-share-service="linkedin">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2uoxvguhsfspfnmr6tvfuyw4y" data-svg-class-name="text-color-text"></icon>
+      <span class="social-share__item-text pl-1">LinkedIn</span>
+    </button>
+  </li>
+
+          
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_facebook" class="social-share__item social-share-item" data-share-service="facebook">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/5xkjpykqkamtr6skk0vodqwd2"></icon>
+      <span class="social-share__item-text pl-1">Facebook</span>
+    </button>
+  </li>
+
+          
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_twitter" class="social-share__item social-share-item" data-share-service="twitter">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4bmfmbwr1b97362o29qmjo1zj"></icon>
+      <span class="social-share__item-text pl-1">Twitter</span>
+    </button>
+  </li>
+
+<!---->      
+        </ul>
+
+<!---->    </div>
+  
+  
+  
+        
+<!---->                
+    </div>
+  
+                    
+
+      
+<!---->        
+
+      
+            
+
+    
+    
+    
+    
+    
+    
+
+    <p class="feed-cta-banner__text border-t-1 border-color-surface-border border-solid p-3 text-center text-md text-color-text-low-emphasis">
+        <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fit.linkedin.com%2Fposts%2Fmariosantella_cyberactforum2023-claudio-locanto-etrace-activity-7188834503929249792-3Swr&trk=public_post_main-feed-card_feed-cta-banner-cta" target="" aria-label="Inicia sesión para ver o añadir un comentario." data-tracking-control-name="public_post_main-feed-card_feed-cta-banner-cta" data-tracking-will-navigate="true" class="feed-cta-banner__link link">Inicia sesión</a> para ver o añadir un comentario.
+    </p>
+  
+        
+    </article>
+  
+      <code id="is-mobile" style="display: none"><!--false--></code>
+  
+
+        
+
+  
+                  
+      </div>
+  
+                </li>
+                <li class="mb-1.5">
+                  
+      <div class="link-overlay relative">
+        <a aria-label="Más publicaciones relevantes" class="absolute left-0 top-0 h-full w-full z-1 !border-0" data-tracking-control-name="link-overlay-public_post-posts-cross-linking" href="https://www.linkedin.com/posts/mariosantella_github-ivanglinkinfast-google-dorks-scan-activity-7188488730888790018-b34s" target="_self"></a>
+        
+                    
+        
+    
+          
+  
+      
+
+    <article class="relative pt-1.5 px-2 pb-0 bg-color-background-container
+        container-lined main-feed-activity-card papabear:max-w-[550px] related-posts__related-post !max-w-none" data-activity-urn="urn:li:activity:7188488730888790018" data-featured-activity-urn="urn:li:activity:7188488730888790018" data-attributed-urn="urn:li:share:7188488730398121984" data-id="main-feed-card">
+      
+              
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+<!---->  
+        
+
+      
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <div class="flex items-center font-sans mb-1" data-test-id="main-feed-activity-card__entity-lockup">
+          <a href="https://it.linkedin.com/in/mariosantella?trk=public_post_main-feed-card_feed-actor-image" class="relative" data-tracking-control-name="public_post_main-feed-card_feed-actor-image" data-tracking-will-navigate>
+            
+      <img class="inline-block relative
+          rounded-[50%]
+          w-6 h-6
+          " data-delayed-url="https://media.licdn.com/dms/image/C5603AQFBUhDW6w1zAg/profile-displayphoto-shrink_400_400/0/1556113150548?e=2147483647&amp;v=beta&amp;t=fWj5cyEPzMKE1V58Umn3hUr31q4KYlyXmUq81ouKpfw" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Ver el perfil de Mario Santella, gráfico">
+  
+<!---->          </a>
+      <div class="flex flex-col self-start min-w-0
+          ml-1
+          ">
+        <div class="text-color-text ">
+            <a class="text-sm link-styled no-underline leading-open" href="https://it.linkedin.com/in/mariosantella?trk=public_post_main-feed-card_feed-actor-name" data-tracking-control-name="public_post_main-feed-card_feed-actor-name" aria-label="Ver el perfil de Mario Santella" data-tracking-will-navigate>
+              Mario Santella
+            </a>
+<!----><!---->        </div>
+
+            <p class="!text-xs text-color-text-low-emphasis leading-[1.33333] m-0 truncate">
+<!---->                🔒💻 IT &amp; Security Consultant / Developer | Cybersecurity &amp; Database Security 🛡️ | MongoDB Atlas DBA 🌐 | Python, PHP, JavaScript, Flet Developer 🔧 +12 yrs experience
+            </p>
+
+            <span class="!text-xs text-color-text-low-emphasis leading-[1.33333] flex">
+                <time class="flex-none">
+                  
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      3 meses
+  
+<!---->                </time>
+<!---->            </span>
+                </div>
+
+<!---->    </div>
+  
+        
+
+      
+              
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      <div class="ellipsis-menu absolute right-0 top-0 !mr-0.5" data-test-id="main-feed-activity-card__ellipsis-menu">
+        
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto">
+          
+            <button class="ellipsis-menu__trigger
+                collapsible-dropdown__button btn-md btn-tertiary cursor-pointer
+                !py-[6px] !px-1 flex items-center rounded-[50%]
+                
+                " aria-expanded="false" aria-label="Abrir menú" data-tracking-control-name="public_post_main-feed-card_ellipsis-menu-trigger" tabindex="0">
+              <icon class="ellipsis-menu__trigger-icon m-0 p-0 centered-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/671xosfpvk4c0kqtyl87hashi"></icon>
+            </button>
+          
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+              
+
+                <li class="ellipsis-menu__item border-t-1 border-solid border-color-border-low-emphasis first-of-type:border-none flex">
+                  
+
+    
+    
+
+    
+
+    
+
+    <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmariosantella_github-ivanglinkinfast-google-dorks-scan-activity-7188488730888790018-b34s&amp;trk=public_post_main-feed-card_ellipsis-menu-semaphore-sign-in-redirect&amp;guestReportContentType=POST&amp;_f=guest-reporting" data-tracking-control-name="public_post_main-feed-card_ellipsis-menu-semaphore-sign-in-redirect" data-tracking-will-navigate data-item-type="semaphore" data-semaphore-content-type="POST" data-semaphore-content-urn="urn:li:activity:7188488730888790018" data-semaphore-tracking-prefix="public_post_main-feed-card_ellipsis-menu-semaphore" data-is-logged-in="false" data-modal="semaphore__toggle" class="semaphore__toggle visited:text-color-text-secondary ellipsis-menu__semaphore ellipsis-menu__item-button flex items-center w-full p-1 cursor-pointer font-sans text-sm font-bold link-styled focus:link-styled link:no-underline active:bg-color-background-container-tint focus:bg-color-background-container-tint hover:bg-color-background-container-tint outline-offset-[-2px]">
+<!---->        
+                      <icon class="ellipsis-menu__item-icon text-color-text h-[24px] w-[24px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/iq0x9q37wj214o129ai1yjut">
+                      </icon>
+                      Denunciar esta publicación
+                    
+    </a>
+
+<!---->  
+                </li>
+<!---->          
+        </ul>
+
+<!---->    </div>
+  
+
+      </div>
+  
+        
+
+      
+            
+            
+  <div class="attributed-text-segment-list__container relative mt-1 mb-1.5 babybear:mt-0 babybear:mb-0.5">
+    <p class="attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words
+        " dir="ltr" data-test-id="main-feed-activity-card__commentary"><a class="link" href="https://lnkd.in/dXXMmqDf?trk=public_post_main-feed-card-text" target="_self" rel="nofollow" data-tracking-control-name="public_post_main-feed-card-text" data-tracking-will-navigate>https://lnkd.in/dXXMmqDf</a></p>
+<!---->  </div>
+
+
+
+        
+
+      
+            
+      
+<!---->      
+    
+    
+
+    
+      <a href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fgithub%2Ecom%2FIvanGlinkin%2FFast-Google-Dorks-Scan&amp;urlhash=rMv7&amp;trk=public_post_main-feed-card_feed-article-content" target="_self" data-tracking-control-name="public_post_main-feed-card_feed-article-content" data-tracking-will-navigate class="flex flex-col feed-article-content" data-test-id="article-content">
+        
+
+        <img alt="GitHub - IvanGlinkin/Fast-Google-Dorks-Scan: The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal. The 100% automated." class="lazy-load w-main-feed-card-media object-cover babybear:max-h-[225px]" data-delayed-url="https://media.licdn.com/dms/image/sync/D4E27AQHRjEfgJodaPQ/articleshare-shrink_800/0/1722308141803?e=2147483647&amp;v=beta&amp;t=sfv8nMDpBJE2CJH-1by4Yg726B6pYIxfksGTj5SW9RM" data-ghost-classes="tw-feed-content-ghost-image" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9l8dv1r8a09nem281grvopn9l">
+      <section class="flex justify-between article-content__header
+           py-1">
+        <header>
+            <h2 class="tw-feed-content-title" dir="ltr" data-test-id="article-content__title">
+              GitHub - IvanGlinkin/Fast-Google-Dorks-Scan: The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal. The 100% automated.
+            </h2>
+
+            <h3 class="tw-feed-content-subtitle" data-test-id="article-content__subtitle">
+                github.com
+            </h3>
+        </header>
+<!---->      </section>
+    
+      </a>
+  
+  
+  
+      
+  
+                  
+      
+          
+<!---->    
+        
+
+      
+          
+      
+
+    
+
+    
+
+    
+
+<!---->  
+    
+        
+
+      
+          
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <code id="i18n_reaction_singular" style="display: none"><!--"%numReactions% reacción"--></code>
+    <code id="i18n_reactions_plural" style="display: none"><!--"%numReactions% reacciones"--></code>
+
+<!---->  
+  
+        
+
+      
+              
+    
+    
+    
+
+    <div class="social-action-bar border-t-1 border-solid border-color-border-faint min-h-[44px] items-center
+        
+        flex flex-wrap babybear:justify-around
+         !m-0">
+      
+  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmariosantella_github-ivanglinkinfast-google-dorks-scan-activity-7188488730888790018-b34s&amp;trk=public_post_main-feed-card_like-cta" data-tracking-control-name="public_post_main-feed-card_like-cta" data-tracking-will-navigate>
+    <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/70k0g8kmgdfjjymflqqzipzxj">
+    </icon>
+    <span class="social-action-bar__button-text ">
+      Recomendar
+    </span>
+  </a>
+
+        
+  <a class="social-action-bar__button " href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmariosantella_github-ivanglinkinfast-google-dorks-scan-activity-7188488730888790018-b34s&amp;trk=public_post_main-feed-card_comment-cta" data-tracking-control-name="public_post_main-feed-card_comment-cta" data-tracking-will-navigate>
+    <icon class="social-action-bar__icon " data-svg-class-name="social-action-bar__icon--svg " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4ol9mo4lxvobj5ww3va90wz1o">
+    </icon>
+    <span class="social-action-bar__button-text ">
+      Comentar
+    </span>
+  </a>
+
+        
+      
+
+    
+    
+    
+    
+
+    <code id="i18n_copy_cta_message_success" style="display: none"><!--"Se ha copiado el enlace en el portapapeles."--></code>
+    <code id="i18n_copy_cta_message_error" style="display: none"><!--"Ha ocurrido un error al copiar en el portapapeles."--></code>
+
+    
+
+    
+
+    <div class="collapsible-dropdown flex items-center relative hyphens-auto social-share inline-block relative select-none share-button " data-share-message="Compartir" data-share-url="https://www.linkedin.com/posts/mariosantella_github-ivanglinkinfast-google-dorks-scan-activity-7188488730888790018-b34s?utm_source=li_share&amp;utm_content=public_post&amp;utm_medium=g_dt_web">
+          
+        <button aria-expanded="false" class="social-share__button social-share__button-square
+            social-share-button social-action-bar__button
+            
+            
+            social-share-button--square
+            " aria-label data-tracking-control-name="public_post_main-feed-card_social-share_main_button">
+          <icon class="social-share__button-icon " data-delayed-url="https://static.licdn.com/aero-v1/sc/h/852gyy4s01pfis5qf9k99s6d2" data-svg-class-name="social-share-button-icon social-action-bar__icon--svg "></icon>
+            <span class="social-share__button-text-square
+                social-action-bar__button-text
+                ">
+              Compartir
+            </span>
+        </button>
+      
+
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-auto top-[100%]" role="menu" tabindex="-1">
+          
+        
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_copy" class="social-share__item social-share-item" data-share-service="copy">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/aup4g97pdky3ff73gv9lyhjvx"></icon>
+      <span class="social-share__item-text pl-1">Copiar</span>
+    </button>
+  </li>
+
+
+        
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_linkedin" class="social-share__item social-share-item" data-share-service="linkedin">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2uoxvguhsfspfnmr6tvfuyw4y" data-svg-class-name="text-color-text"></icon>
+      <span class="social-share__item-text pl-1">LinkedIn</span>
+    </button>
+  </li>
+
+          
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_facebook" class="social-share__item social-share-item" data-share-service="facebook">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/5xkjpykqkamtr6skk0vodqwd2"></icon>
+      <span class="social-share__item-text pl-1">Facebook</span>
+    </button>
+  </li>
+
+          
+  <li>
+    <button data-tracking-control-name="public_post_main-feed-card_social-share_twitter" class="social-share__item social-share-item" data-share-service="twitter">
+      <icon class="social-share__item-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/4bmfmbwr1b97362o29qmjo1zj"></icon>
+      <span class="social-share__item-text pl-1">Twitter</span>
+    </button>
+  </li>
+
+<!---->      
+        </ul>
+
+<!---->    </div>
+  
+  
+  
+        
+<!---->                
+    </div>
+  
+                    
+
+      
+<!---->        
+
+      
+            
+
+    
+    
+    
+    
+    
+    
+
+    <p class="feed-cta-banner__text border-t-1 border-color-surface-border border-solid p-3 text-center text-md text-color-text-low-emphasis">
+        <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fmariosantella_github-ivanglinkinfast-google-dorks-scan-activity-7188488730888790018-b34s&trk=public_post_main-feed-card_feed-cta-banner-cta" target="" aria-label="Inicia sesión para ver o añadir un comentario." data-tracking-control-name="public_post_main-feed-card_feed-cta-banner-cta" data-tracking-will-navigate="true" class="feed-cta-banner__link link">Inicia sesión</a> para ver o añadir un comentario.
+    </p>
+  
+        
+    </article>
+  
+      <code id="is-mobile" style="display: none"><!--false--></code>
+  
+
+        
+
+  
+                  
+      </div>
+  
+                </li>
+          </ul>
+        
+      </div>
+    </section>
+  
+  
+          
+      
+        </div>
+      </section>
+      <section class="right-rail papabear:w-right-rail-width papabear:ml-column-gutter mamabear:max-w-[790px] mamabear:px-mobile-container-padding babybear:max-w-[790px] babybear:px-mobile-container-padding">
+        
+        
+<!---->
+              
+    
+    
+    
+    
+    
+
+    <div class="public-post-author-card mb-3">
+      
+      
+    <div class="flex flex-col overflow-hidden container-lined">
+      
+    <figure class="cover-img">
+<!---->      <div class="cover-img__image-frame relative w-full overflow-hidden pb-[calc((1/4)*100%)]">
+        <div class="cover-img__image-position absolute top-0 right-0 bottom-0 left-0
+            cover-img__image-position--with-gradient after:content-[&quot;&quot;] after:block after:absolute after:top-0 after:right-0 after:bottom-0 after:left-0 after:h-full after:pointer-events-none after:bg-gradient-to-b after:from-color-transparent after:to-color-background-scrim">
+            <img class="cover-img__image relative w-full h-full object-cover" src="https://media.licdn.com/dms/image/D4D16AQGPBLpwJ8LMsw/profile-displaybackgroundimage-shrink_200_800/0/1712047194012?e=2147483647&amp;v=beta&amp;t=y2f4e_udTLzP6bT93uEIM2DOjbtSI9Kqw-02mycMklc" fetchpriority="auto" data-embed-id="cover-image" alt>
+        </div>
+      </div>
+<!---->    </figure>
+  
+      
+      <img class="inline-block relative
+          rounded-[50%]
+          w-8 h-8
+           -mt-[36px] ml-2 mb-2" data-delayed-url="https://media.licdn.com/dms/image/C5603AQFBUhDW6w1zAg/profile-displayphoto-shrink_200_200/0/1556113150342?e=2147483647&amp;v=beta&amp;t=8iaobdsTbS3fF0GQMiyhSfwdUxFqt8VwpghQhCQTxy8" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2" alt="Mario Santella">
+  
+      
+        
+          <p class="public-post-author-card__followers text-color-text-low-emphasis mb-1 mr-4 ml-2 font-normal text-sm">
+            544 seguidores
+          </p>
+          <div class="text-sm mb-1 mr-4 ml-2">
+            <ul class="inline-flex list-none">
+                <li class="public-post-author-card__posts mr-1">
+                  <a class="link" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fdo%2Elinkedin%2Ecom%2Fin%2Fmariosantella%2Frecent-activity%2F&amp;trk=public_post_follow-posts" data-tracking-control-name="public_post_follow-posts" data-tracking-will-navigate>
+                    130 publicaciones
+                  </a>
+                </li>
+<!---->            </ul>
+          </div>
+        <div class="mb-2">
+          <a class="public-post-author-card__view-profile inline-block text-md btn-sm btn-tertiary text-color-text-low-emphasis" href="https://it.linkedin.com/in/mariosantella?trk=public_post_follow-view-profile" data-tracking-control-name="public_post_follow-view-profile" data-tracking-will-navigate>
+            Ver perfil
+          </a>
+          <a class="public-post-author-card__follow inline-block mx-0.5 text-md btn-sm btn-secondary text-color-text-low-emphasis" href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fdo%2Elinkedin%2Ecom%2Ffeed%2Fupdate%2Furn%3Ali%3Aactivity%3A7042151418274721794&amp;trk=public_post_follow" data-tracking-control-name="public_post_follow" data-tracking-will-navigate>
+            <icon class="inline-block w-3 h-[17px] align-middle" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/6uk1ucphcxnwu1tvokzreyk9r"></icon>
+            <span class>Seguir</span>
+          </a>
+        </div>
+      
+      
+    </div>
+  
+  
+    </div>
+  
+
+
+            
+    
+
+<!---->  
+
+              
+    
+    
+    
+
+    
+      <section class="aside-section-container mb-4 content-hub-topics">
+
+            <h2 class="aside-section-container__title section-title">
+              Ver temas
+            </h2>
+
+<!---->
+        <div class="aside-section-container__content break-words">
+          
+        <ul class="career-advice-hub-topics__list">
+            <li class="career-advice-hub-topics__list-item mb-1">
+              <a href="https://es.linkedin.com/pulse/topics/sales-s5/?lang=es" data-tracking-control-name="public_post_content-hub-topic" data-tracking-will-navigate class="btn-sm btn-secondary flex w-fit mr-1 mb-1 hover:no-underline">
+                Ventas
+              </a>
+            </li>
+            <li class="career-advice-hub-topics__list-item mb-1">
+              <a href="https://es.linkedin.com/pulse/topics/marketing-s2461/?lang=es" data-tracking-control-name="public_post_content-hub-topic" data-tracking-will-navigate class="btn-sm btn-secondary flex w-fit mr-1 mb-1 hover:no-underline">
+                Marketing
+              </a>
+            </li>
+            <li class="career-advice-hub-topics__list-item mb-1">
+              <a href="https://es.linkedin.com/pulse/topics/business-administration-s50111/?lang=es" data-tracking-control-name="public_post_content-hub-topic" data-tracking-will-navigate class="btn-sm btn-secondary flex w-fit mr-1 mb-1 hover:no-underline">
+                Administración de empresas
+              </a>
+            </li>
+            <li class="career-advice-hub-topics__list-item mb-1">
+              <a href="https://es.linkedin.com/pulse/topics/hr-management-s50359/?lang=es" data-tracking-control-name="public_post_content-hub-topic" data-tracking-will-navigate class="btn-sm btn-secondary flex w-fit mr-1 mb-1 hover:no-underline">
+                Gestión de recursos humanos
+              </a>
+            </li>
+            <li class="career-advice-hub-topics__list-item mb-1">
+              <a href="https://es.linkedin.com/pulse/topics/content-management-s3932/?lang=es" data-tracking-control-name="public_post_content-hub-topic" data-tracking-will-navigate class="btn-sm btn-secondary flex w-fit mr-1 mb-1 hover:no-underline">
+                Gestión de contenidos
+              </a>
+            </li>
+            <li class="career-advice-hub-topics__list-item mb-1">
+              <a href="https://es.linkedin.com/pulse/topics/engineering-s166/?lang=es" data-tracking-control-name="public_post_content-hub-topic" data-tracking-will-navigate class="btn-sm btn-secondary flex w-fit mr-1 mb-1 hover:no-underline">
+                Ingeniería
+              </a>
+            </li>
+            <li class="career-advice-hub-topics__list-item mb-1">
+              <a href="https://es.linkedin.com/pulse/topics/soft-skills-s2976/?lang=es" data-tracking-control-name="public_post_content-hub-topic" data-tracking-will-navigate class="btn-sm btn-secondary flex w-fit mr-1 mb-1 hover:no-underline">
+                Competencias transversales
+              </a>
+            </li>
+          <li class="career-advice-hub-topics__list-item mb-1">
+            <a href="https://es.linkedin.com/pulse/topics/home/?lang=es" data-tracking-control-name="public_post_content-hub-topic" data-tracking-will-navigate class="btn-sm btn-secondary-emphasis flex w-fit mr-[6px] mb-1 hover:no-underline" aria-label="Ver todo, Ver temas">
+              Ver todo
+            </a>
+          </li>
+        </ul>
+      
+        </div>
+      </section>
+  
+  
+          
+      
+      </section>
+    </main>
+
+<!---->
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+    <footer class="li-footer bg-transparent w-full ">
+      <ul class="li-footer__list flex flex-wrap flex-row items-start justify-start w-full h-auto min-h-[50px] my-[0px] mx-auto py-3 px-2 papabear:w-[1128px] papabear:p-0">
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        
+          <span class="sr-only">LinkedIn</span>
+          <icon class="li-footer__copy-logo text-color-logo-brand-alt inline-block self-center h-[14px] w-[56px] mr-1" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/e12h2cd8ac580qen9qdd0qks8"></icon>
+          <span class="li-footer__copy-text flex items-center">© 2024</span>
+        
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://about.linkedin.com?trk=d_public_post_footer-about" data-tracking-control-name="d_public_post_footer-about" data-tracking-will-navigate>
+          
+          Acerca de
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/accessibility?trk=d_public_post_footer-accessibility" data-tracking-control-name="d_public_post_footer-accessibility" data-tracking-will-navigate>
+          
+          Accesibilidad
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/user-agreement?trk=d_public_post_footer-user-agreement" data-tracking-control-name="d_public_post_footer-user-agreement" data-tracking-will-navigate>
+          
+          Condiciones de uso
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/privacy-policy?trk=d_public_post_footer-privacy-policy" data-tracking-control-name="d_public_post_footer-privacy-policy" data-tracking-will-navigate>
+          
+          Política de privacidad
+        
+        </a>
+  </li>
+
+<!---->        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/cookie-policy?trk=d_public_post_footer-cookie-policy" data-tracking-control-name="d_public_post_footer-cookie-policy" data-tracking-will-navigate>
+          
+          Política de cookies
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/copyright-policy?trk=d_public_post_footer-copyright-policy" data-tracking-control-name="d_public_post_footer-copyright-policy" data-tracking-will-navigate>
+          
+          Política de copyright
+        
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://brand.linkedin.com/policies?trk=d_public_post_footer-brand-policy" data-tracking-control-name="d_public_post_footer-brand-policy" data-tracking-will-navigate>
+          
+          Política de marca
+        
+        </a>
+  </li>
+
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/psettings/guest-controls?trk=d_public_post_footer-guest-controls" data-tracking-control-name="d_public_post_footer-guest-controls" data-tracking-will-navigate>
+          
+            Controles de invitados
+          
+        </a>
+  </li>
+
+        
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        <a class="li-footer__item-link flex items-center font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover focus:text-color-link-focus" href="https://www.linkedin.com/legal/professional-community-policies?trk=d_public_post_footer-community-guide" data-tracking-control-name="d_public_post_footer-community-guide" data-tracking-will-navigate>
+          
+          Pautas comunitarias
+        
+        </a>
+  </li>
+
+        
+<!---->
+          
+          
+  <li class="li-footer__item font-sans text-xs text-color-text-low-emphasis flex flex-shrink-0 justify-start p-1 relative w-50% papabear:justify-center papabear:w-auto">
+        
+              
+
+    
+    
+
+    
+
+    
+
+    <div class="collapsible-dropdown collapsible-dropdown--footer collapsible-dropdown--up flex items-center relative hyphens-auto language-selector z-2">
+<!---->
+        <ul class="collapsible-dropdown__list hidden container-raised absolute w-auto overflow-y-auto flex-col items-stretch z-1 bottom-[100%] top-auto" role="menu" tabindex="-1">
+          
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="العربية (árabe)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ar_AE" data-locale="ar_AE" role="menuitem" lang="ar_AE">
+                العربية (árabe)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Čeština (checo)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-cs_CZ" data-locale="cs_CZ" role="menuitem" lang="cs_CZ">
+                Čeština (checo)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Dansk (danés)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-da_DK" data-locale="da_DK" role="menuitem" lang="da_DK">
+                Dansk (danés)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Deutsch (alemán)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-de_DE" data-locale="de_DE" role="menuitem" lang="de_DE">
+                Deutsch (alemán)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="English (inglés)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-en_US" data-locale="en_US" role="menuitem" lang="en_US">
+                English (inglés)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Español (Spanish) seleccionado" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link--selected" data-tracking-control-name="language-selector-es_ES" data-locale="es_ES" role="menuitem" lang="es_ES">
+                <strong>Español (Spanish)</strong>
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Français (francés)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-fr_FR" data-locale="fr_FR" role="menuitem" lang="fr_FR">
+                Français (francés)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="हिंदी (hindi)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-hi_IN" data-locale="hi_IN" role="menuitem" lang="hi_IN">
+                हिंदी (hindi)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Bahasa Indonesia (indonesio)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-in_ID" data-locale="in_ID" role="menuitem" lang="in_ID">
+                Bahasa Indonesia (indonesio)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Italiano (italiano)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-it_IT" data-locale="it_IT" role="menuitem" lang="it_IT">
+                Italiano (italiano)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="日本語 (japonés)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ja_JP" data-locale="ja_JP" role="menuitem" lang="ja_JP">
+                日本語 (japonés)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="한국어 (coreano)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ko_KR" data-locale="ko_KR" role="menuitem" lang="ko_KR">
+                한국어 (coreano)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Bahasa Malaysia (malayo)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ms_MY" data-locale="ms_MY" role="menuitem" lang="ms_MY">
+                Bahasa Malaysia (malayo)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Nederlands (neerlandés)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-nl_NL" data-locale="nl_NL" role="menuitem" lang="nl_NL">
+                Nederlands (neerlandés)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Norsk (noruego)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-no_NO" data-locale="no_NO" role="menuitem" lang="no_NO">
+                Norsk (noruego)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Polski (polaco)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-pl_PL" data-locale="pl_PL" role="menuitem" lang="pl_PL">
+                Polski (polaco)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Português (portugués)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-pt_BR" data-locale="pt_BR" role="menuitem" lang="pt_BR">
+                Português (portugués)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Română (rumano)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ro_RO" data-locale="ro_RO" role="menuitem" lang="ro_RO">
+                Română (rumano)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Русский (ruso)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-ru_RU" data-locale="ru_RU" role="menuitem" lang="ru_RU">
+                Русский (ruso)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Svenska (sueco)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-sv_SE" data-locale="sv_SE" role="menuitem" lang="sv_SE">
+                Svenska (sueco)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="ภาษาไทย (tailandés)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-th_TH" data-locale="th_TH" role="menuitem" lang="th_TH">
+                ภาษาไทย (tailandés)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Tagalog (tagalo)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-tl_PH" data-locale="tl_PH" role="menuitem" lang="tl_PH">
+                Tagalog (tagalo)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Türkçe (turco)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-tr_TR" data-locale="tr_TR" role="menuitem" lang="tr_TR">
+                Türkçe (turco)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="Українська (ucraniano)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-uk_UA" data-locale="uk_UA" role="menuitem" lang="uk_UA">
+                Українська (ucraniano)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="简体中文 (chino simplificado)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-zh_CN" data-locale="zh_CN" role="menuitem" lang="zh_CN">
+                简体中文 (chino simplificado)
+            </button>
+          </li>
+          <li class="language-selector__item" role="presentation">
+            <!-- Adding aria-label to both the li and the button because screen reader focus goes to button on desktop and li on mobile-->
+            <button aria-label="正體中文 (chino tradicional)" class="font-sans text-xs link block py-[5px] px-2 w-full hover:cursor-pointer hover:bg-color-action hover:text-color-text-on-dark focus:bg-color-action focus:text-color-text-on-dark
+                language-selector__link !font-regular" data-tracking-control-name="language-selector-zh_TW" data-locale="zh_TW" role="menuitem" lang="zh_TW">
+                正體中文 (chino tradicional)
+            </button>
+          </li>
+<!---->      
+        </ul>
+
+          
+        <button class="language-selector__button select-none relative pr-2 font-sans text-xs font-bold text-color-text-low-emphasis hover:text-color-link-hover hover:cursor-pointer focus:text-color-link-focus focus:outline-dotted focus:outline-1" aria-expanded="false" data-tracking-control-name="footer-lang-dropdown_trigger">
+          <span class="language-selector__label-text mr-0.5 break-words">
+            Idioma
+          </span>
+          <icon class="language-selector__label-chevron w-2 h-2 absolute top-0 right-0" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"></icon>
+        </button>
+      
+    </div>
+  
+  
+          
+  </li>
+
+      </ul>
+
+<!---->    </footer>
+  
+  
+  
+
+          
+    
+    
+    
+    
+
+    <div class="contextual-sign-in-modal" data-impression-id="public_post_contextual-sign-in-modal" data-cool-off-enabled data-show-on-page-load>
+<!---->
+      
+
+    
+    <div class>
+<!---->
+      <div id="public_post_contextual-sign-in" class="modal modal--contextual-sign-in" data-outlet="public_post_contextual-sign-in">
+<!---->        <div class="modal__overlay flex items-center bg-color-background-scrim justify-center fixed bottom-0 left-0 right-0 top-0 opacity-0 invisible pointer-events-none z-[1000] transition-[opacity] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] duration-[0.17s]
+            py-4
+            " aria-hidden="true">
+          <section aria-modal="true" role="dialog" aria-labelledby="public_post_contextual-sign-in-modal-header" tabindex="-1" class="max-h-full modal__wrapper overflow-auto p-0 bg-color-surface max-w-[1128px] min-h-[160px] relative scale-[0.25] shadow-sm shadow-color-border-faint transition-[transform] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] duration-[0.33s] focus:outline-0
+              
+              w-[1128px] mamabear:w-[744px] babybear:w-[360px]
+              
+              rounded-md">
+              
+            <button class="modal__dismiss btn-tertiary h-[40px] w-[40px] p-0 rounded-full indent-0
+                contextual-sign-in-modal__modal-dismiss absolute right-0 m-[20px] cursor-pointer" aria-label="Descartar" data-tracking-control-name="public_post_contextual-sign-in-modal_modal_dismiss">
+              <icon class="contextual-sign-in-modal__modal-dismiss-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/gs508lg3t2o81tq7pmcgn6m2"></icon>
+            </button>
+        
+            <div class="modal__main w-full ">
+              
+          <div class="contextual-sign-in-modal__screen contextual-sign-in-modal__context-screen flex flex-col my-4 mx-3">
+              
+              
+      <img class="inline-block relative
+          
+          w-16 h-16
+           contextual-sign-in-modal__img m-auto" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/5k9cgtx8rhoyqkcxfoncu1svl" data-ghost-classes="bg-color-entity-ghost-background" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9l8dv1r8a09nem281grvopn9l" alt>
+  
+            <h2 class="contextual-sign-in-modal__context-screen-title font-sans text-xl text-color-text my-2 mx-4 text-center" id="public_post_contextual-sign-in-modal-header">
+              Inicia sesión para ver más contenido
+            </h2>
+              <p class="contextual-sign-in-modal__subtitle mb-2 mx-12 babybear:mx-0 text-center font-sans text-md text-color-text">
+                Crea tu cuenta gratuita o inicia sesión para continuar tu búsqueda
+              </p>
+<!---->            <div class="contextual-sign-in-modal__btn-container m-auto w-[320px] babybear:w-full">
+<!---->              
+    
+    
+    
+    
+
+    <div class="sign-in-modal" data-impression-id="public_post_contextual-sign-in-modal_sign-in-modal">
+        <button class="sign-in-modal__outlet-btn cursor-pointer btn-md btn-primary" data-tracking-client-ingraph data-tracking-control-name="public_post_contextual-sign-in-modal_sign-in-modal_outlet-button" data-modal="public_post_contextual-sign-in_sign-in-modal">
+            Inicia sesión
+        </button>
+
+      
+
+    
+    <div class>
+<!---->
+      <div id="public_post_contextual-sign-in_sign-in-modal" class="modal modal--sign-in" data-outlet="public_post_contextual-sign-in_sign-in-modal">
+<!---->        <div class="modal__overlay flex items-center bg-color-background-scrim justify-center fixed bottom-0 left-0 right-0 top-0 opacity-0 invisible pointer-events-none z-[1000] transition-[opacity] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] duration-[0.17s]
+            py-4
+            " aria-hidden="true">
+          <section aria-modal="true" role="dialog" aria-labelledby="public_post_contextual-sign-in_sign-in-modal-modal-header" tabindex="-1" class="max-h-full modal__wrapper overflow-auto p-0 bg-color-surface max-w-[1128px] min-h-[160px] relative scale-[0.25] shadow-sm shadow-color-border-faint transition-[transform] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] duration-[0.33s] focus:outline-0
+              
+              w-[1128px] mamabear:w-[744px] babybear:w-[360px]
+              
+              rounded-md">
+              
+            <button class="modal__dismiss btn-tertiary h-[40px] w-[40px] p-0 rounded-full indent-0 sign-in-modal__dismiss absolute right-0 cursor-pointer m-[20px]" aria-label="Descartar" data-tracking-control-name="public_post_contextual-sign-in-modal_sign-in-modal_dismiss">
+              <icon class="sign-in-modal__dismiss-icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/gs508lg3t2o81tq7pmcgn6m2"></icon>
+            </button>
+        
+            <div class="modal__main w-full ">
+              
+          <div class="sign-in-modal__screen flex flex-col py-4 px-3 w-[513px] babybear:w-full">
+            <h2 class="sign-in-modal__header font-sans text-display-md text-color-text">
+                ¡Te damos la bienvenida de nuevo!
+            </h2>
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <code id="i18n_sign_in_form_show_text" style="display: none"><!--"Mostrar"--></code>
+    <code id="i18n_sign_in_form_show_label" style="display: none"><!--"Mostrar tu contraseña de LinkedIn"--></code>
+    <code id="i18n_sign_in_form_hide_text" style="display: none"><!--"Ocultar"--></code>
+    <code id="i18n_sign_in_form_hide_label" style="display: none"><!--"Ocultar tu contraseña de LinkedIn"--></code>
+
+    
+    <code id="i18n_username_error_empty" style="display: none"><!--"Introduce un email o un número de teléfono"--></code>
+    
+    <code id="i18n_username_error_too_long" style="display: none"><!--"El email o teléfono debe tener entre 3 y 128 caracteres."--></code>
+    <code id="i18n_username_error_too_short" style="display: none"><!--"El email o teléfono debe tener entre 3 y 128 caracteres."--></code>
+
+    
+    <code id="i18n_password_error_empty" style="display: none"><!--"Introduce una contraseña"--></code>
+    
+    <code id="i18n_password_error_too_short" style="display: none"><!--"La contraseña no puede tener menos de 6 caracteres."--></code>
+    
+    <code id="i18n_password_error_too_long" style="display: none"><!--"La contraseña no puede tener más de 400 caracteres."--></code>
+
+<!---->    <form data-id="sign-in-form" action="https://www.linkedin.com/uas/login-submit" method="post" novalidate class="mt-1.5 mb-2">
+      <input name="loginCsrfParam" value="7c2b300e-4823-43bb-8117-f1690efb3f32" type="hidden">
+
+      <div class="flex flex-col">
+        
+    <div class="mt-1.5" data-js-module-id="guest-input">
+      <div class="flex flex-col">
+        <label class="input-label mb-1" for="public_post_contextual-sign-in_sign-in-modal_session_key">
+          Email o teléfono
+        </label>
+        <div class="text-input flex">
+          <input class="text-color-text font-sans text-md outline-0 bg-color-transparent grow" autocomplete="username" id="public_post_contextual-sign-in_sign-in-modal_session_key" name="session_key" required data-tracking-control-name="public_post_contextual-sign-in-modal_sign-in-modal_sign-in-session-key" data-tracking-client-ingraph type="text">
+          
+        </div>
+      </div>
+
+      <p class="input-helper mt-1.5" for="public_post_contextual-sign-in_sign-in-modal_session_key" role="alert" data-js-module-id="guest-input__message"></p>
+    </div>
+  
+
+        
+    <div class="mt-1.5" data-js-module-id="guest-input">
+      <div class="flex flex-col">
+        <label class="input-label mb-1" for="public_post_contextual-sign-in_sign-in-modal_session_password">
+          Contraseña
+        </label>
+        <div class="text-input flex">
+          <input class="text-color-text font-sans text-md outline-0 bg-color-transparent grow" autocomplete="current-password" id="public_post_contextual-sign-in_sign-in-modal_session_password" name="session_password" required data-tracking-control-name="public_post_contextual-sign-in-modal_sign-in-modal_sign-in-password" data-tracking-client-ingraph type="password">
+          
+            <button aria-live="assertive" aria-relevant="text" data-id="sign-in-form__password-visibility-toggle" class="font-sans text-md font-bold text-color-action z-10 ml-[12px] hover:cursor-pointer" aria-label="Mostrar tu contraseña de LinkedIn" data-tracking-control-name="public_post_contextual-sign-in-modal_sign-in-modal_sign-in-password-visibility-toggle-btn" type="button">Mostrar</button>
+          
+        </div>
+      </div>
+
+      <p class="input-helper mt-1.5" for="public_post_contextual-sign-in_sign-in-modal_session_password" role="alert" data-js-module-id="guest-input__message"></p>
+    </div>
+  
+
+        <input name="session_redirect" value="https://www.linkedin.com/posts/mariosantella_flet-is-a-python-based-framework-thatenables-activity-7042151418274721794-5M4o" type="hidden">
+
+<!---->      </div>
+
+      <div data-id="sign-in-form__footer" class="flex justify-between
+          sign-in-form__footer--full-width">
+        <a data-id="sign-in-form__forgot-password" class="font-sans text-md font-bold link leading-regular
+            sign-in-form__forgot-password--full-width" href="https://www.linkedin.com/uas/request-password-reset?trk=public_post_contextual-sign-in-modal_sign-in-modal_forgot_password" data-tracking-control-name="public_post_contextual-sign-in-modal_sign-in-modal_forgot_password" data-tracking-will-navigate>¿Has olvidado tu contraseña?</a>
+
+<!---->
+        <input name="trk" value="public_post_contextual-sign-in-modal_sign-in-modal_sign-in-submit" type="hidden">
+        <button class="btn-md btn-primary flex-shrink-0 cursor-pointer
+            sign-in-form__submit-btn--full-width" data-id="sign-in-form__submit-btn" data-tracking-control-name="public_post_contextual-sign-in-modal_sign-in-modal_sign-in-submit-btn" data-tracking-client-ingraph data-tracking-litms type="submit">
+          Inicia sesión
+        </button>
+      </div>
+          <div class="sign-in-form__divider left-right-divider pt-2 pb-3">
+            <p class="sign-in-form__divider-text font-sans text-sm text-color-text px-2">
+              o
+            </p>
+          </div>
+    </form>
+        <div class="w-full max-w-[400px] mx-auto">
+          
+    <div class="google-auth-button" data-tracking-control-name="public_post_contextual-sign-in-modal_sign-in-modal_google-auth-button" data-tracking-client-ingraph>
+        <code id="isTermsAndConditionsSkipEnabledAuthButton" style="display: none"><!--true--></code>
+        
+    
+    <p class="linkedin-tc__text text-color-text-low-emphasis text-xs pb-2" data-impression-id="public_post_contextual-sign-in-modal_sign-in-modal__button-skip-tc-text">
+      Al hacer clic en «Continuar» para unirte o iniciar sesión, aceptas las <a href="/legal/user-agreement?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_user-agreement" target="_blank" data-tracking-control-name="public_post_contextual-sign-in-modal_sign-in-modal_auth-button_user-agreement" data-tracking-will-navigate="true">Condiciones de uso</a>, la <a href="/legal/privacy-policy?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_privacy-policy" target="_blank" data-tracking-control-name="public_post_contextual-sign-in-modal_sign-in-modal_auth-button_privacy-policy" data-tracking-will-navigate="true">Política de privacidad</a> y la <a href="/legal/cookie-policy?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_cookie-policy" target="_blank" data-tracking-control-name="public_post_contextual-sign-in-modal_sign-in-modal_auth-button_cookie-policy" data-tracking-will-navigate="true">Política de cookies</a> de LinkedIn.
+    </p>
+  
+      <div class="google-auth-button__placeholder"></div>
+<!---->    </div>
+  
+        </div>
+<!---->  
+              <p class="sign-in-modal__join-now m-auto font-sans text-md text-color-text
+                  mt-2">
+                ¿Estás empezando a usar LinkedIn? <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmariosantella_flet-is-a-python-based-framework-thatenables-activity-7042151418274721794-5M4o&trk=public_post_contextual-sign-in-modal_sign-in-modal_join-link" data-tracking-control-name="public_post_contextual-sign-in-modal_sign-in-modal_join-link" data-tracking-will-navigate="true" class="sign-in-modal__join-link">Únete ahora</a>
+              </p>
+          </div>
+        
+            </div>
+
+<!---->          </section>
+        </div>
+      </div>
+    </div>
+  
+    </div>
+  
+
+              <div class="contextual-sign-in-modal__divider left-right-divider">
+                <p class="contextual-sign-in-modal__divider-text font-sans text-sm text-color-text px-2">
+                  o
+                </p>
+              </div>
+                <div class="w-full max-w-[400px] mx-auto">
+                  
+    <div class="google-auth-button">
+        <code id="isTermsAndConditionsSkipEnabledAuthButton" style="display: none"><!--true--></code>
+        
+    
+    <p class="linkedin-tc__text text-color-text-low-emphasis text-xs pb-2" data-impression-id="public_post__button-skip-tc-text">
+      Al hacer clic en «Continuar» para unirte o iniciar sesión, aceptas las <a href="/legal/user-agreement?trk=public_post_auth-button_user-agreement" target="_blank" data-tracking-control-name="public_post_auth-button_user-agreement" data-tracking-will-navigate="true">Condiciones de uso</a>, la <a href="/legal/privacy-policy?trk=public_post_auth-button_privacy-policy" target="_blank" data-tracking-control-name="public_post_auth-button_privacy-policy" data-tracking-will-navigate="true">Política de privacidad</a> y la <a href="/legal/cookie-policy?trk=public_post_auth-button_cookie-policy" target="_blank" data-tracking-control-name="public_post_auth-button_cookie-policy" data-tracking-will-navigate="true">Política de cookies</a> de LinkedIn.
+    </p>
+  
+      <div class="google-auth-button__placeholder"></div>
+<!---->    </div>
+  
+                </div>
+            </div>
+            <p class="contextual-sign-in-modal__join-now m-auto font-sans text-md text-color-text">
+              ¿Estás empezando a usar LinkedIn? <a href="https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmariosantella_flet-is-a-python-based-framework-thatenables-activity-7042151418274721794-5M4o&trk=public_post_contextual-sign-in-modal_join-link" data-tracking-control-name="public_post_contextual-sign-in-modal_join-link" data-tracking-will-navigate="true" class="contextual-sign-in-modal__join-link">Únete ahora</a>
+            </p>
+          </div>
+        
+            </div>
+
+<!---->          </section>
+        </div>
+      </div>
+    </div>
+  
+    </div>
+  
+
+<!---->
+        <code id="activityUrn" style="display: none"><!--"urn:li:activity:7042151418274721794"--></code>
+        
+    
+
+    <div id="toasts" class="toasts fixed z-8 babybear:right-4 mamabear:right-4 papabear:min-h-[96px] invisible
+        top:auto bottom-4 left-4 papabear:w-[400px]
+        toasts--bottom" type="bottom">
+    
+
+    <template id="toast-template">
+      <div class="toast container-raised flex
+          toast--bottom
+          transition ease-accelerate duration-xxslow
+          " data-id="toast">
+        <div class="toast__message flex flex-1 babybear:items-center mamabear:items-center papabear:items-start py-2 px-1.5" data-id="toast__message" role="alert" tabindex="-1">
+          <div class="toast__message-content-container" data-id="toast__message-content-container">
+            <p class="toast__message-content font-sans text-sm opacity-90 inline babybear:self-center mamabear:self-center papabear:self-start" data-id="toast__message-content"></p>
+          </div>
+        </div>
+        <button class="toast__dismiss-btn cursor-pointer babybear:self-center mamabear:self-center papabear:self-start pt-3 pb-2 papabear:py-2 pl-0.5 pr-0" data-id="toast__dismiss-btn" aria-label="Cerrar">
+          <svg width="24" height="24" class="fill-color-icon"><path d="M13 4.32 9.31 8 13 11.69 11.69 13 8 9.31 4.31 13 3 11.69 6.69 8 3 4.31 4.31 3 8 6.69 11.68 3Z"></path></svg>
+        </button>
+      </div>
+    </template>
+      <template id="toast-icon-caution">
+        <icon class="text-color-icon-caution toast__icon w-3 h-3 shrink-0 mr-2" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/u6kgm8vi5s4rhtbgmjlphlp6"></icon>
+      </template>
+      <template id="toast-icon-error">
+        <icon class="text-color-icon-negative toast__icon w-3 h-3 shrink-0 mr-2" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/2ffvlzyh9wb65459t9va8w2ph"></icon>
+      </template>
+      <template id="toast-icon-gdpr">
+        <icon class="text-color-icon-neutral toast__icon w-3 h-3 shrink-0 mr-2" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/a0d85elrpgg38lskvq1kvzb3"></icon>
+      </template>
+      <template id="toast-icon-notify">
+        <icon class="text-color-icon-neutral toast__icon w-3 h-3 shrink-0 mr-2" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/de23f5me7dfm17unsj9up4vga"></icon>
+      </template>
+      <template id="toast-icon-success">
+        <icon class="text-color-icon-positive toast__icon w-3 h-3 shrink-0 mr-2" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/c44ryoszao52cyd0y87z7s0uf"></icon>
+      </template>
+    <template id="toast-cta">
+      <a class="toast__cta cta-link font-medium ml-0.5 text-sm text-inherit inline" target="_blank"></a>
+    </template>
+  </div>
+  
+      
+
+            <script src="https://static.licdn.com/aero-v1/sc/h/eh08muqvrde4h3hc6koyij5ti" async></script>
+<!---->          
+        <script src="https://static.licdn.com/aero-v1/sc/h/bcr50yrar3vlur2yq7hf6cgkt" async defer></script>
+        <script data-delayed-url="https://static.licdn.com/aero-v1/sc/h/dk6orxpe4fqv1odlnec2tihqw" data-module-id="media-player"></script>
+      
+      </body>
+    </html>
+  
+  
