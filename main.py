@@ -5,6 +5,7 @@ from googlesearch import GoogleSearch
 from results_parsey import ResultsProcessor
 from file_downloader import FileDownloader
 from ia_agent import OpenAIGenerator, GPT4AllGenerator, IAagent
+from browserautosearch import BrowserAutoSearch
 from dotenv import load_dotenv, set_key
 
 
@@ -27,7 +28,27 @@ def openai_config():
     set_key(".env", "OPENAI_API_KEY", api_key)
     print("Archivo .env configurado satisfactoriamente.")
 
-def main(query, configure_env, start_page, pages, lang, output_json, output_html, download, gen_dork):
+def load_env(configure_env):
+    # Verificar la existencia del archivo .env y configuración del entorno
+    if configure_env or not os.path.exists(".env"):
+        env_config()
+        sys.exit(1)
+
+    # Cargar las variables de entorno
+    load_dotenv()
+
+    # Verificar la disponibilidad de las claves de API
+    if not google_api_key or not search_engine_id:
+        print("ERROR: Falta la API_KEY o el SEARCH_ENGINE_ID. Por favor, ejecuta la opción --configure para configurar el archivo .env.")
+        sys.exit(1)
+
+    # Extraer valores de las variables de entorno
+    google_api_key = os.getenv("API_KEY_GOOGLE")
+    search_engine_id = os.getenv("SEARCH_ENGINE_ID")
+
+    return (google_api_key, search_engine_id)
+
+def main(query, configure_env, start_page, pages, lang, output_json, output_html, download, gen_dork, selenium):
     """
     Realiza una búsqueda en Google utilizando una API KEY y un SEARCH ENGINE ID almacenados en un archivo .env.
 
@@ -41,19 +62,8 @@ def main(query, configure_env, start_page, pages, lang, output_json, output_html
         output_html (str): Ruta del archivo para exportar los resultados en formato HTML.
         download (str): Cadena con extensiones de archivo para descargar, separadas por comas.
         gen_dork (str): Descripción para generar un dork automáticamente usando IA.
+        selenium (bool): Si es True, se solicita la busqueda con Selenium.
     """
-    # Verificar la existencia del archivo .env y configuración del entorno
-    if configure_env or not os.path.exists(".env"):
-        env_config()
-        sys.exit(1)
-
-    # Cargar las variables de entorno
-    load_dotenv()
-
-    # Extraer valores de las variables de entorno
-    google_api_key = os.getenv("API_KEY_GOOGLE")
-    search_engine_id = os.getenv("SEARCH_ENGINE_ID")
-
     # Si se solicita generar un dork utilizando inteligencia artificial
     if gen_dork:
         # Solicitar confirmación para usar OpenAI
@@ -63,6 +73,7 @@ def main(query, configure_env, start_page, pages, lang, output_json, output_html
 
         if respuesta.lower() in ("y", "yes"):
             # Configurar OpenAI si no está ya configurado
+            load_dotenv()
             if "OPENAI_API_KEY" not in os.environ:
                 openai_config()
                 load_dotenv()  # Recargar variables de entorno
@@ -79,19 +90,23 @@ def main(query, configure_env, start_page, pages, lang, output_json, output_html
         print(f"\nResultado:\n {respuesta}")
         sys.exit(1)  # Finaliza después de generar el dork
 
-    # Verificar la disponibilidad de las claves de API
-    if not google_api_key or not search_engine_id:
-        print("ERROR: Falta la API_KEY o el SEARCH_ENGINE_ID. Por favor, ejecuta la opción --configure para configurar el archivo .env.")
-        sys.exit(1)
-
     # Verificar la presencia de una consulta
     if not query:
         print("Indica una consulta con el comando -q. Utiliza el comando -h para mostrar la ayuda.")
         sys.exit(1)
 
-    # Realizar la búsqueda en Google
-    gsearch = GoogleSearch(google_api_key, search_engine_id)
-    resultados = gsearch.search(query, start_page=start_page, pages=pages, lang=lang)
+    elif selenium:
+        # Realizar la búsqueda con Selenium
+        browser = BrowserAutoSearch()
+        browser.search_google(query=query)
+        resultados = browser.google_search_results()
+        browser.quit()
+
+    else:
+        # Realizar la búsqueda con la API de Google
+        google_api_key, search_engine_id = load_env(configure_env=configure_env)
+        gsearch = GoogleSearch(google_api_key, search_engine_id)
+        resultados = gsearch.search(query, start_page=start_page, pages=pages, lang=lang)
 
     rparser = ResultsProcessor(resultados)
 
@@ -125,6 +140,7 @@ if __name__ == "__main__":
     parser.add_argument("--html", type=str, default=None, help="Exporta los resultados en formato HTML en el fichero especificado.")
     parser.add_argument("--download", type=str, default=None, help="Especifica las extensiones de archivo a descargar.")
     parser.add_argument("-gd", "--generate-dork", type=str, default=None, help="Genera un dork automáticamente a partir de una descripción utilizando IA.")
+    parser.add_argument("--selenium", action="store_true", default=False, help="Utiliza Selenium para realizar la busqueda con un navegador de manera automatica.")
     args = parser.parse_args()
 
     main(query=args.query,
@@ -135,4 +151,5 @@ if __name__ == "__main__":
          output_json=args.json,
          output_html=args.html,
          download=args.download,
-         gen_dork=args.generate_dork)
+         gen_dork=args.generate_dork,
+         selenium=args.selenium)
