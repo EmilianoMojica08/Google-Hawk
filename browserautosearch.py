@@ -46,8 +46,11 @@ class BrowserAutoSearch:
         
         for browser_name, browser_info in browsers.items():
             try:
-                return browser_info["driver"](service=browser_info["service"](browser_info["manager"]().install()), 
-                                              options=browser_info["options"])
+                browser = browser_info["driver"](service=browser_info["service"](browser_info["manager"]().install()), 
+                                                 options=browser_info["options"])
+                # Hacer que la ventana del navegador se abra en pantalla completa
+                browser.maximize_window()
+                return browser
             except Exception as e:
                 print(f"Error al iniciar el {browser_name}: {e}")
 

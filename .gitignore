@@ -4,16 +4,53 @@
 # Ignorar archivos compilados de Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
 # Ignorar configuraciones de entorno virtual
 .venv/
 venv/
 ENV/
 env/
+env.bak/
+venv.bak/
 
 # Ignorar archivos de log
 *.log
+*.out
+*.err
 
-# Ignorar configuraciones de IDE
+# Ignorar configuraciones de IDE y editores
 .vscode/
 .idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar archivos de configuración de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar archivos de test coverage y resultados
+.coverage
+*.cover
+.hypothesis/
+coverage.xml
+
+# Ignorar archivos de construcción de distribuciones
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ignorar configuraciones de sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración de Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Ignorar configuraciones de CI/CD
+.gitlab-ci.yml
+.circleci/

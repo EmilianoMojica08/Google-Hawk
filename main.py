@@ -6,8 +6,8 @@ from results_parsey import ResultsProcessor
 from file_downloader import FileDownloader
 from ia_agent import OpenAIGenerator, GPT4AllGenerator, IAagent
 from browserautosearch import BrowserAutoSearch
+from smartsearch import SmartSearch  # Importamos la clase SmartSearch
 from dotenv import load_dotenv, set_key
-
 
 def env_config():
     """
@@ -38,17 +38,15 @@ def load_env(configure_env):
     load_dotenv()
 
     # Verificar la disponibilidad de las claves de API
+    google_api_key = os.getenv("API_KEY_GOOGLE")
+    search_engine_id = os.getenv("SEARCH_ENGINE_ID")
     if not google_api_key or not search_engine_id:
         print("ERROR: Falta la API_KEY o el SEARCH_ENGINE_ID. Por favor, ejecuta la opción --configure para configurar el archivo .env.")
         sys.exit(1)
 
-    # Extraer valores de las variables de entorno
-    google_api_key = os.getenv("API_KEY_GOOGLE")
-    search_engine_id = os.getenv("SEARCH_ENGINE_ID")
-
     return (google_api_key, search_engine_id)
 
-def main(query, configure_env, start_page, pages, lang, output_json, output_html, download, gen_dork, selenium):
+def main(query, configure_env, start_page, pages, lang, output_json, output_html, download, gen_dork, selenium, smartsearch_file, smartsearch_prompt, smartsearch_regex):
     """
     Realiza una búsqueda en Google utilizando una API KEY y un SEARCH ENGINE ID almacenados en un archivo .env.
 
@@ -63,6 +61,9 @@ def main(query, configure_env, start_page, pages, lang, output_json, output_html
         download (str): Cadena con extensiones de archivo para descargar, separadas por comas.
         gen_dork (str): Descripción para generar un dork automáticamente usando IA.
         selenium (bool): Si es True, se solicita la busqueda con Selenium.
+        smartsearch_file (str): Archivo o directorio para realizar búsquedas con SmartSearch.
+        smartsearch_prompt (str): Prompt para la búsqueda con IA en SmartSearch.
+        smartsearch_regex (str): Expresión regular para la búsqueda en SmartSearch.
     """
     # Si se solicita generar un dork utilizando inteligencia artificial
     if gen_dork:
@@ -89,6 +90,25 @@ def main(query, configure_env, start_page, pages, lang, output_json, output_html
         respuesta = ia_agent.generate_gdork(gen_dork)
         print(f"\nResultado:\n {respuesta}")
         sys.exit(1)  # Finaliza después de generar el dork
+
+    # Si se proporciona un archivo o directorio para búsqueda con SmartSearch
+    if smartsearch_file:
+        searcher = SmartSearch(smartsearch_file)
+        if smartsearch_regex:
+            resultados = searcher.regex_search(smartsearch_regex)
+            print("\nResultados de la búsqueda por expresión regular:")
+            for file, results in resultados.items():
+                print(f"{file}:")
+                for r in results:
+                    print(f"\t- {r}")
+        elif smartsearch_prompt:
+            resultados = searcher.ia_search(smartsearch_prompt)
+            print("\nResultados de la búsqueda con IA:")
+            for file, results in resultados.items():
+                print(f"{file}:")
+                for r in results:
+                    print(f"\t- {r}")
+        sys.exit(1)
 
     # Verificar la presencia de una consulta
     if not query:
@@ -140,7 +160,13 @@ if __name__ == "__main__":
     parser.add_argument("--html", type=str, default=None, help="Exporta los resultados en formato HTML en el fichero especificado.")
     parser.add_argument("--download", type=str, default=None, help="Especifica las extensiones de archivo a descargar.")
     parser.add_argument("-gd", "--generate-dork", type=str, default=None, help="Genera un dork automáticamente a partir de una descripción utilizando IA.")
-    parser.add_argument("--selenium", action="store_true", default=False, help="Utiliza Selenium para realizar la busqueda con un navegador de manera automatica.")
+    parser.add_argument("--selenium", action="store_true", default=False, help="Utiliza Selenium para realizar la búsqueda con un navegador de manera automática.")
+    
+    # Nuevos argumentos para integrar SmartSearch
+    parser.add_argument("--smartsearch-file", type=str, help="Archivo o directorio en el que realizar la búsqueda con SmartSearch.")
+    parser.add_argument("--smartsearch-prompt", type=str, help="Prompt para la búsqueda con IA en SmartSearch.")
+    parser.add_argument("--smartsearch-regex", type=str, help="Expresión regular para la búsqueda en SmartSearch.")
+    
     args = parser.parse_args()
 
     main(query=args.query,
@@ -152,4 +178,7 @@ if __name__ == "__main__":
          output_html=args.html,
          download=args.download,
          gen_dork=args.generate_dork,
-         selenium=args.selenium)
+         selenium=args.selenium,
+         smartsearch_file=args.smartsearch_file,
+         smartsearch_prompt=args.smartsearch_prompt,
+         smartsearch_regex=args.smartsearch_regex)
