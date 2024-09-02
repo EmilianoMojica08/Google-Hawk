@@ -108,9 +108,9 @@ python main.py --smartsearch-file "path/to/your/files" --smartsearch-regex "\\bc
 ##### Explanation
 
 
---**smartsearch-file **"path/to/your/files": This argument specifies the directory or file where the search will be conducted. Replace "path/to/your/files" with the actual path to the directory or file you want to search within.
+--**smartsearch-file ** "path/to/your/files": This argument specifies the directory or file where the search will be conducted. Replace "path/to/your/files" with the actual path to the directory or file you want to search within.
 
---**smartsearch-regex **"\\bcybersecurity\\b": This argument uses a regular expression to search for occurrences of the word "cybersecurity". The \\b in the regex is a word boundary anchor, which ensures that the search matches the whole word "cybersecurity" rather than part of a longer word.
+--**smartsearch-regex ** "\\bcybersecurity\\b": This argument uses a regular expression to search for occurrences of the word "cybersecurity". The \\b in the regex is a word boundary anchor, which ensures that the search matches the whole word "cybersecurity" rather than part of a longer word.
 
 
 
